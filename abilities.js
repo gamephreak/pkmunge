@@ -23,8 +23,6 @@ const optionalKeys = {
   isNonstandard: 1
 };
 
-console.log(Object.keys(current).length);
-
 const result = {};
 for (let id in current) {
   if (id === 'flashfireactivated') continue;
