@@ -1,0 +1,113 @@
+Acupressure	NORMAL	￼	—	—	30	Sharply raises a random stat.
+Air Slash	FLYING	￼	75	95	20	May cause flinching.
+Aqua Jet	WATER	￼	40	100	20	User attacks first.
+Aqua Ring	WATER	￼	—	—	20	Restores a little HP each turn.
+Aqua Tail	WATER	￼	90	90	10	
+Assurance	DARK	￼	60	100	10	Power doubles if opponent already took damage in the same turn.
+Attack Order	BUG	￼	90	100	15	High critical hit ratio.
+Aura Sphere	FIGHTING	￼	80	∞	20	Ignores Accuracy and Evasiveness.
+Avalanche	ICE	￼	60	100	10	Power doubles if user took damage first.
+Brave Bird	FLYING	￼	120	100	15	User receives recoil damage.
+Brine	WATER	￼	65	100	10	Power doubles if opponent's HP is less than 50%.
+Bug Bite	BUG	￼	60	100	20	Receives the effect from the opponent's held berry.
+Bug Buzz	BUG	￼	90	100	10	May lower opponent's Special Defense.
+Bullet Punch	STEEL	￼	40	100	30	User attacks first.
+Captivate	NORMAL	￼	—	100	20	Sharply lowers opponent's Special Attack if opposite gender.
+Charge Beam	ELECTRIC	￼	50	90	10	May raise user's Special Attack.
+Chatter	FLYING	￼	65	100	20	Confuses opponent.
+Close Combat	FIGHTING	￼	120	100	5	Lowers user's Defense and Special Defense.
+Copycat	NORMAL	￼	—	—	20	Copies opponent's last move.
+Cross Poison	POISON	￼	70	100	20	High critical hit ratio. May poison opponent.
+Crush Grip	NORMAL	￼	—	100	5	More powerful when opponent has higher HP.
+Dark Pulse	DARK	￼	80	100	15	May cause flinching.
+Dark Void	DARK	￼	—	50	10	Puts all adjacent opponents to sleep.
+Defend Order	BUG	￼	—	—	10	Raises user's Defense and Special Defense.
+Defog	FLYING	￼	—	—	15	Lowers opponent's Evasiveness and clears fog.
+Discharge	ELECTRIC	￼	80	100	15	May paralyze opponent.
+Double Hit	NORMAL	￼	35	90	10	Hits twice in one turn.
+Draco Meteor	DRAGON	￼	130	90	5	Sharply lowers user's Special Attack.
+Dragon Pulse	DRAGON	￼	85	100	10	
+Dragon Rush	DRAGON	￼	100	75	10	May cause flinching.
+Drain Punch	FIGHTING	￼	75	100	10	User recovers half the HP inflicted on opponent.
+Earth Power	GROUND	￼	90	100	10	May lower opponent's Special Defense.
+Embargo	DARK	￼	—	100	15	Opponent cannot use items.
+Energy Ball	GRASS	￼	90	100	10	May lower opponent's Special Defense.
+Feint	NORMAL	￼	30	100	10	Only hits if opponent uses Protect or Detect in the same turn.
+Fire Fang	FIRE	￼	65	95	15	May cause flinching and/or burn opponent.
+Flare Blitz	FIRE	￼	120	100	15	User receives recoil damage. May burn opponent.
+Flash Cannon	STEEL	￼	80	100	10	May lower opponent's Special Defense.
+Fling	DARK	￼	—	100	10	Power depends on held item.
+Focus Blast	FIGHTING	￼	120	70	5	May lower opponent's Special Defense.
+Force Palm	FIGHTING	￼	60	100	10	May paralyze opponent.
+Gastro Acid	POISON	￼	—	100	10	Cancels out the effect of the opponent's Ability.
+Giga Impact	NORMAL	￼	150	90	5	User must recharge next turn.
+Grass Knot	GRASS	￼	—	100	20	The heavier the opponent, the stronger the attack.
+Gravity	PSYCHIC	￼	—	—	5	Prevents moves like Fly and Bounce and the Ability Levitate for 5 turns.
+Guard Swap	PSYCHIC	￼	—	—	10	User and opponent swap Defense and Special Defense.
+Gunk Shot	POISON	￼	120	80	5	May poison opponent.
+Gyro Ball	STEEL	￼	—	100	5	The slower the user, the stronger the attack.
+Hammer Arm	FIGHTING	￼	100	90	10	Lowers user's Speed.
+Head Smash	ROCK	￼	150	80	5	User receives recoil damage.
+Heal Block	PSYCHIC	￼	—	—	15	Prevents the opponent from restoring HP for 5 turns.
+Heal Order	BUG	￼	—	—	10	User recovers half its max HP.
+Healing Wish	PSYCHIC	￼	—	—	10	The user faints and the next Pokémon released is fully healed.
+Heart Swap	PSYCHIC	￼	—	—	10	Stat changes are swapped with the opponent.
+Ice Fang	ICE	￼	65	95	15	May cause flinching and/or freeze opponent.
+Ice Shard	ICE	￼	40	100	30	User attacks first.
+Iron Head	STEEL	￼	80	100	15	May cause flinching.
+Judgment	NORMAL	￼	100	100	10	Type depends on the Arceus Plate being held.
+Last Resort	NORMAL	￼	140	100	5	Can only be used after all other moves are used.
+Lava Plume	FIRE	￼	80	100	15	May burn opponent.
+Leaf Storm	GRASS	￼	130	90	5	Sharply lowers user's Special Attack.
+Lucky Chant	NORMAL	￼	—	—	30	Opponent cannot land critical hits for 5 turns.
+Lunar Dance	PSYCHIC	￼	—	—	10	The user faints but the next Pokémon released is fully healed.
+Magma Storm	FIRE	￼	100	75	5	Traps opponent, damaging them for 4-5 turns.
+Magnet Bomb	STEEL	￼	60	∞	20	Ignores Accuracy and Evasiveness.
+Magnet Rise	ELECTRIC	￼	—	—	10	User becomes immune to Ground-type moves for 5 turns.
+Me First	NORMAL	￼	—	—	20	User copies the opponent's attack with 1.5× power.
+Metal Burst	STEEL	￼	—	100	10	Deals damage equal to 1.5x opponent's attack.
+Miracle Eye	PSYCHIC	￼	—	—	40	Resets opponent's Evasiveness, removes Dark's Psychic immunity.
+Mirror Shot	STEEL	￼	65	85	10	May lower opponent's Accuracy.
+Mud Bomb	GROUND	￼	65	85	10	May lower opponent's Accuracy.
+Nasty Plot	DARK	￼	—	—	20	Sharply raises user's Special Attack.
+Natural Gift	NORMAL	￼	—	100	15	Power and type depend on the user's held berry.
+Night Slash	DARK	￼	70	100	15	High critical hit ratio.
+Ominous Wind	GHOST	￼	60	100	5	May raise all user's stats at once.
+Payback	DARK	￼	50	100	10	Power doubles if the user was attacked first.
+Pluck	FLYING	￼	60	100	20	If the opponent is holding a berry, its effect is stolen by user.
+Poison Jab	POISON	￼	80	100	20	May poison the opponent.
+Power Gem	ROCK	￼	80	100	20	
+Power Swap	PSYCHIC	￼	—	—	10	User and opponent swap Attack and Special Attack.
+Power Trick	PSYCHIC	￼	—	—	10	User's own Attack and Defense switch.
+Power Whip	GRASS	￼	120	85	10	
+Psycho Cut	PSYCHIC	￼	70	100	20	High critical hit ratio.
+Psycho Shift	PSYCHIC	￼	—	90	10	Gives the opponent the user's status condition, if it hits.
+Punishment	DARK	￼	—	100	5	Power increases when opponent's stats have been raised.
+Roar of Time	DRAGON	￼	150	90	5	User must recharge next turn.
+Rock Climb	NORMAL	￼	90	85	20	May confuse opponent.
+Rock Polish	ROCK	￼	—	—	20	Sharply raises user's Speed.
+Rock Wrecker	ROCK	￼	150	90	5	User must recharge next turn.
+Roost	FLYING	￼	—	—	10	User recovers half of its max HP and loses the Flying type temporarily.
+Seed Bomb	GRASS	￼	80	100	15	
+Seed Flare	GRASS	￼	120	85	5	May lower opponent's Special Defense.
+Shadow Claw	GHOST	￼	70	100	15	High critical hit ratio.
+Shadow Force	GHOST	￼	120	100	5	Disappears on first turn, attacks on second. Can strike through Protect/Detect.
+Shadow Sneak	GHOST	￼	40	100	30	User attacks first.
+Spacial Rend	DRAGON	￼	100	95	5	High critical hit ratio.
+Stealth Rock	ROCK	￼	—	—	20	Damages opponent switching into battle.
+Stone Edge	ROCK	￼	100	80	5	High critical hit ratio.
+Sucker Punch	DARK	￼	70	100	5	User attacks first, but only works if opponent is readying an attack.
+Switcheroo	DARK	￼	—	100	15	Swaps held items with the opponent.
+Tailwind	FLYING	￼	—	—	30	Doubles Speed for 4 turns.
+Thunder Fang	ELECTRIC	￼	65	95	15	May cause flinching and/or paralyze opponent.
+Toxic Spikes	POISON	￼	—	—	20	Poisons opponents when they switch into battle.
+Trick Room	PSYCHIC	￼	—	—	5	Slower Pokémon move first in the turn for 5 turns.
+Trump Card	NORMAL	￼	—	∞	5	The lower the PP, the higher the power.
+U-turn	BUG	￼	70	100	20	User switches out immediately after attacking.
+Vacuum Wave	FIGHTING	￼	40	100	30	User attacks first.
+Wake-Up Slap	FIGHTING	￼	70	100	10	Power doubles if opponent is asleep, but wakes it up.
+Wood Hammer	GRASS	￼	120	100	15	User receives recoil damage.
+Worry Seed	GRASS	￼	—	100	10	Changes the opponent's Ability to Insomnia.
+Wring Out	NORMAL	￼	—	100	5	The higher the opponent's HP, the higher the damage.
+X-Scissor	BUG	￼	80	100	15	
+Zen Headbutt	PSYCHIC	￼	80	90	15	May cause flinching.

@@ -1,0 +1,784 @@
+000	0x0000	￼	None	￼	Unknown pocket
+001	0x0001	￼	Master Ball	￼	Items pocket
+002	0x0002	￼	Ultra Ball	￼	Items pocket
+003	0x0003	￼	Great Ball	￼	Items pocket
+004	0x0004	￼	Poké Ball	￼	Items pocket
+005	0x0005	￼	Safari Ball	￼	Items pocket
+006	0x0006	￼	Net Ball	￼	Items pocket
+007	0x0007	￼	Dive Ball	￼	Items pocket
+008	0x0008	￼	Nest Ball	￼	Items pocket
+009	0x0009	￼	Repeat Ball	￼	Items pocket
+010	0x000A	￼	Timer Ball	￼	Items pocket
+011	0x000B	￼	Luxury Ball	￼	Items pocket
+012	0x000C	￼	Premier Ball	￼	Items pocket
+013	0x000D	￼	Dusk Ball	￼	Items pocket
+014	0x000E	￼	Heal Ball	￼	Items pocket
+015	0x000F	￼	Quick Ball	￼	Items pocket
+016	0x0010	￼	Cherish Ball	￼	Items pocket
+017	0x0011	￼	Potion	￼	Medicine pocket
+018	0x0012	￼	Antidote	￼	Medicine pocket
+019	0x0013	￼	Burn Heal	￼	Medicine pocket
+020	0x0014	￼	Ice Heal	￼	Medicine pocket
+021	0x0015	￼	Awakening	￼	Medicine pocket
+022	0x0016	￼	Paralyze Heal	￼	Medicine pocket
+023	0x0017	￼	Full Restore	￼	Medicine pocket
+024	0x0018	￼	Max Potion	￼	Medicine pocket
+025	0x0019	￼	Hyper Potion	￼	Medicine pocket
+026	0x001A	￼	Super Potion	￼	Medicine pocket
+027	0x001B	￼	Full Heal	￼	Medicine pocket
+028	0x001C	￼	Revive	￼	Medicine pocket
+029	0x001D	￼	Max Revive	￼	Medicine pocket
+030	0x001E	￼	Fresh Water	￼	Medicine pocket
+031	0x001F	￼	Soda Pop	￼	Medicine pocket
+032	0x0020	￼	Lemonade	￼	Medicine pocket
+033	0x0021	￼	Moomoo Milk	￼	Medicine pocket
+034	0x0022	￼	Energy Powder	￼	Medicine pocket
+035	0x0023	￼	Energy Root	￼	Medicine pocket
+036	0x0024	￼	Heal Powder	￼	Medicine pocket
+037	0x0025	￼	Revival Herb	￼	Medicine pocket
+038	0x0026	￼	Ether	￼	Medicine pocket
+039	0x0027	￼	Max Ether	￼	Medicine pocket
+040	0x0028	￼	Elixir	￼	Medicine pocket
+041	0x0029	￼	Max Elixir	￼	Medicine pocket
+042	0x002A	￼	Lava Cookie	￼	Medicine pocket
+043	0x002B	￼	Berry Juice	￼	Medicine pocket
+044	0x002C	￼	Sacred Ash	￼	Medicine pocket
+045	0x002D	￼	HP Up	￼	Medicine pocket
+046	0x002E	￼	Protein	￼	Medicine pocket
+047	0x002F	￼	Iron	￼	Medicine pocket
+048	0x0030	￼	Carbos	￼	Medicine pocket
+049	0x0031	￼	Calcium	￼	Medicine pocket
+050	0x0032	￼	Rare Candy	￼	Medicine pocket
+051	0x0033	￼	PP Up	￼	Medicine pocket
+052	0x0034	￼	Zinc	￼	Medicine pocket
+053	0x0035	￼	PP Max	￼	Medicine pocket
+054	0x0036	￼	Old Gateau	￼	Medicine pocket
+055	0x0037	￼	Guard Spec.	￼	Items pocket
+056	0x0038	￼	Dire Hit	￼	Items pocket
+057	0x0039	￼	X Attack	￼	Items pocket
+058	0x003A	￼	X Defense	￼	Items pocket
+059	0x003B	￼	X Speed	￼	Items pocket
+060	0x003C	￼	X Accuracy	￼	Items pocket
+061	0x003D	￼	X Sp. Atk	￼	Items pocket
+062	0x003E	￼	X Sp. Def	￼	Items pocket
+063	0x003F	￼	Poké Doll	￼	Items pocket
+064	0x0040	￼	Fluffy Tail	￼	Items pocket
+065	0x0041	￼	Blue Flute	￼	Medicine pocket
+066	0x0042	￼	Yellow Flute	￼	Medicine pocket
+067	0x0043	￼	Red Flute	￼	Medicine pocket
+068	0x0044	￼	Black Flute	￼	Items pocket
+069	0x0045	￼	White Flute	￼	Items pocket
+070	0x0046	￼	Shoal Salt	￼	Items pocket
+071	0x0047	￼	Shoal Shell	￼	Items pocket
+072	0x0048	￼	Red Shard	￼	Items pocket
+073	0x0049	￼	Blue Shard	￼	Items pocket
+074	0x004A	￼	Yellow Shard	￼	Items pocket
+075	0x004B	￼	Green Shard	￼	Items pocket
+076	0x004C	￼	Super Repel	￼	Items pocket
+077	0x004D	￼	Max Repel	￼	Items pocket
+078	0x004E	￼	Escape Rope	￼	Items pocket
+079	0x004F	￼	Repel	￼	Items pocket
+080	0x0050	￼	Sun Stone	￼	Items pocket
+081	0x0051	￼	Moon Stone	￼	Items pocket
+082	0x0052	￼	Fire Stone	￼	Items pocket
+083	0x0053	￼	Thunder Stone	￼	Items pocket
+084	0x0054	￼	Water Stone	￼	Items pocket
+085	0x0055	￼	Leaf Stone	￼	Items pocket
+086	0x0056	￼	Tiny Mushroom	￼	Items pocket
+087	0x0057	￼	Big Mushroom	￼	Items pocket
+088	0x0058	￼	Pearl	￼	Items pocket
+089	0x0059	￼	Big Pearl	￼	Items pocket
+090	0x005A	￼	Stardust	￼	Items pocket
+091	0x005B	￼	Star Piece	￼	Items pocket
+092	0x005C	￼	Nugget	￼	Items pocket
+093	0x005D	￼	Heart Scale	￼	Items pocket
+094	0x005E	￼	Honey	￼	Items pocket
+095	0x005F	￼	Growth Mulch	￼	Items pocket
+096	0x0060	￼	Damp Mulch	￼	Items pocket
+097	0x0061	￼	Stable Mulch	￼	Items pocket
+098	0x0062	￼	Gooey Mulch	￼	Items pocket
+099	0x0063	￼	Root Fossil	￼	Items pocket
+100	0x0064	￼	Claw Fossil	￼	Items pocket
+101	0x0065	￼	Helix Fossil	￼	Items pocket
+102	0x0066	￼	Dome Fossil	￼	Items pocket
+103	0x0067	￼	Old Amber	￼	Items pocket
+104	0x0068	￼	Armor Fossil	￼	Items pocket
+105	0x0069	￼	Skull Fossil	￼	Items pocket
+106	0x006A	￼	Rare Bone	￼	Items pocket
+107	0x006B	￼	Shiny Stone	￼	Items pocket
+108	0x006C	￼	Dusk Stone	￼	Items pocket
+109	0x006D	￼	Dawn Stone	￼	Items pocket
+110	0x006E	￼	Oval Stone	￼	Items pocket
+111	0x006F	￼	Odd Keystone	￼	Items pocket
+112	0x0070	￼	Griseous Orb	￼	Items pocket
+113	0x0071	￼	unknown	￼	Unknown pocket
+114	0x0072	￼	unknown	￼	Unknown pocket
+115	0x0073	￼	unknown	￼	Unknown pocket
+116	0x0074	￼	Douse Drive	￼	Items pocket
+117	0x0075	￼	Shock Drive	￼	Items pocket
+118	0x0076	￼	Burn Drive	￼	Items pocket
+119	0x0077	￼	Chill Drive	￼	Items pocket
+120	0x0078	￼	unknown	￼	Unknown pocket
+121	0x0079	￼	unknown	￼	Unknown pocket
+122	0x007A	￼	unknown	￼	Unknown pocket
+123	0x007B	￼	unknown	￼	Unknown pocket
+124	0x007C	￼	unknown	￼	Unknown pocket
+125	0x007D	￼	unknown	￼	Unknown pocket
+126	0x007E	￼	unknown	￼	Unknown pocket
+127	0x007F	￼	unknown	￼	Unknown pocket
+128	0x0080	￼	unknown	￼	Unknown pocket
+129	0x0081	￼	unknown	￼	Unknown pocket
+130	0x0082	￼	unknown	￼	Unknown pocket
+131	0x0083	￼	unknown	￼	Unknown pocket
+132	0x0084	￼	unknown	￼	Unknown pocket
+133	0x0085	￼	unknown	￼	Unknown pocket
+134	0x0086	￼	Sweet Heart	￼	Medicine pocket
+135	0x0087	￼	Adamant Orb	￼	Items pocket
+136	0x0088	￼	Lustrous Orb	￼	Items pocket
+137	0x0089	￼	Greet Mail	￼	Items pocket
+138	0x008A	￼	Favored Mail	￼	Items pocket
+139	0x008B	￼	RSVP Mail	￼	Items pocket
+140	0x008C	￼	Thanks Mail	￼	Items pocket
+141	0x008D	￼	Inquiry Mail	￼	Items pocket
+142	0x008E	￼	Like Mail	￼	Items pocket
+143	0x008F	￼	Reply Mail	￼	Items pocket
+144	0x0090	￼	Bridge Mail S	￼	Items pocket
+145	0x0091	￼	Bridge Mail D	￼	Items pocket
+146	0x0092	￼	Bridge Mail T	￼	Items pocket
+147	0x0093	￼	Bridge Mail V	￼	Items pocket
+148	0x0094	￼	Bridge Mail M	￼	Items pocket
+149	0x0095	￼	Cheri Berry	￼	Berries pocket
+150	0x0096	￼	Chesto Berry	￼	Berries pocket
+151	0x0097	￼	Pecha Berry	￼	Berries pocket
+152	0x0098	￼	Rawst Berry	￼	Berries pocket
+153	0x0099	￼	Aspear Berry	￼	Berries pocket
+154	0x009A	￼	Leppa Berry	￼	Berries pocket
+155	0x009B	￼	Oran Berry	￼	Berries pocket
+156	0x009C	￼	Persim Berry	￼	Berries pocket
+157	0x009D	￼	Lum Berry	￼	Berries pocket
+158	0x009E	￼	Sitrus Berry	￼	Berries pocket
+159	0x009F	￼	Figy Berry	￼	Berries pocket
+160	0x00A0	￼	Wiki Berry	￼	Berries pocket
+161	0x00A1	￼	Mago Berry	￼	Berries pocket
+162	0x00A2	￼	Aguav Berry	￼	Berries pocket
+163	0x00A3	￼	Iapapa Berry	￼	Berries pocket
+164	0x00A4	￼	Razz Berry	￼	Berries pocket
+165	0x00A5	￼	Bluk Berry	￼	Berries pocket
+166	0x00A6	￼	Nanab Berry	￼	Berries pocket
+167	0x00A7	￼	Wepear Berry	￼	Berries pocket
+168	0x00A8	￼	Pinap Berry	￼	Berries pocket
+169	0x00A9	￼	Pomeg Berry	￼	Berries pocket
+170	0x00AA	￼	Kelpsy Berry	￼	Berries pocket
+171	0x00AB	￼	Qualot Berry	￼	Berries pocket
+172	0x00AC	￼	Hondew Berry	￼	Berries pocket
+173	0x00AD	￼	Grepa Berry	￼	Berries pocket
+174	0x00AE	￼	Tamato Berry	￼	Berries pocket
+175	0x00AF	￼	Cornn Berry	￼	Berries pocket
+176	0x00B0	￼	Magost Berry	￼	Berries pocket
+177	0x00B1	￼	Rabuta Berry	￼	Berries pocket
+178	0x00B2	￼	Nomel Berry	￼	Berries pocket
+179	0x00B3	￼	Spelon Berry	￼	Berries pocket
+180	0x00B4	￼	Pamtre Berry	￼	Berries pocket
+181	0x00B5	￼	Watmel Berry	￼	Berries pocket
+182	0x00B6	￼	Durin Berry	￼	Berries pocket
+183	0x00B7	￼	Belue Berry	￼	Berries pocket
+184	0x00B8	￼	Occa Berry	￼	Berries pocket
+185	0x00B9	￼	Passho Berry	￼	Berries pocket
+186	0x00BA	￼	Wacan Berry	￼	Berries pocket
+187	0x00BB	￼	Rindo Berry	￼	Berries pocket
+188	0x00BC	￼	Yache Berry	￼	Berries pocket
+189	0x00BD	￼	Chople Berry	￼	Berries pocket
+190	0x00BE	￼	Kebia Berry	￼	Berries pocket
+191	0x00BF	￼	Shuca Berry	￼	Berries pocket
+192	0x00C0	￼	Coba Berry	￼	Berries pocket
+193	0x00C1	￼	Payapa Berry	￼	Berries pocket
+194	0x00C2	￼	Tanga Berry	￼	Berries pocket
+195	0x00C3	￼	Charti Berry	￼	Berries pocket
+196	0x00C4	￼	Kasib Berry	￼	Berries pocket
+197	0x00C5	￼	Haban Berry	￼	Berries pocket
+198	0x00C6	￼	Colbur Berry	￼	Berries pocket
+199	0x00C7	￼	Babiri Berry	￼	Berries pocket
+200	0x00C8	￼	Chilan Berry	￼	Berries pocket
+201	0x00C9	￼	Liechi Berry	￼	Berries pocket
+202	0x00CA	￼	Ganlon Berry	￼	Berries pocket
+203	0x00CB	￼	Salac Berry	￼	Berries pocket
+204	0x00CC	￼	Petaya Berry	￼	Berries pocket
+205	0x00CD	￼	Apicot Berry	￼	Berries pocket
+206	0x00CE	￼	Lansat Berry	￼	Berries pocket
+207	0x00CF	￼	Starf Berry	￼	Berries pocket
+208	0x00D0	￼	Enigma Berry	￼	Berries pocket
+209	0x00D1	￼	Micle Berry	￼	Berries pocket
+210	0x00D2	￼	Custap Berry	￼	Berries pocket
+211	0x00D3	￼	Jaboca Berry	￼	Berries pocket
+212	0x00D4	￼	Rowap Berry	￼	Berries pocket
+213	0x00D5	￼	Bright Powder	￼	Items pocket
+214	0x00D6	￼	White Herb	￼	Items pocket
+215	0x00D7	￼	Macho Brace	￼	Items pocket
+216	0x00D8	￼	Exp. Share	￼	Key items pocket
+217	0x00D9	￼	Quick Claw	￼	Items pocket
+218	0x00DA	￼	Soothe Bell	￼	Items pocket
+219	0x00DB	￼	Mental Herb	￼	Items pocket
+220	0x00DC	￼	Choice Band	￼	Items pocket
+221	0x00DD	￼	King's Rock	￼	Items pocket
+222	0x00DE	￼	Silver Powder	￼	Items pocket
+223	0x00DF	￼	Amulet Coin	￼	Items pocket
+224	0x00E0	￼	Cleanse Tag	￼	Items pocket
+225	0x00E1	￼	Soul Dew	￼	Items pocket
+226	0x00E2	￼	Deep Sea Tooth	￼	Items pocket
+227	0x00E3	￼	Deep Sea Scale	￼	Items pocket
+228	0x00E4	￼	Smoke Ball	￼	Items pocket
+229	0x00E5	￼	Everstone	￼	Items pocket
+230	0x00E6	￼	Focus Band	￼	Items pocket
+231	0x00E7	￼	Lucky Egg	￼	Items pocket
+232	0x00E8	￼	Scope Lens	￼	Items pocket
+233	0x00E9	￼	Metal Coat	￼	Items pocket
+234	0x00EA	￼	Leftovers	￼	Items pocket
+235	0x00EB	￼	Dragon Scale	￼	Items pocket
+236	0x00EC	￼	Light Ball	￼	Items pocket
+237	0x00ED	￼	Soft Sand	￼	Items pocket
+238	0x00EE	￼	Hard Stone	￼	Items pocket
+239	0x00EF	￼	Miracle Seed	￼	Items pocket
+240	0x00F0	￼	Black Glasses	￼	Items pocket
+241	0x00F1	￼	Black Belt	￼	Items pocket
+242	0x00F2	￼	Magnet	￼	Items pocket
+243	0x00F3	￼	Mystic Water	￼	Items pocket
+244	0x00F4	￼	Sharp Beak	￼	Items pocket
+245	0x00F5	￼	Poison Barb	￼	Items pocket
+246	0x00F6	￼	Never-Melt Ice	￼	Items pocket
+247	0x00F7	￼	Spell Tag	￼	Items pocket
+248	0x00F8	￼	Twisted Spoon	￼	Items pocket
+249	0x00F9	￼	Charcoal	￼	Items pocket
+250	0x00FA	￼	Dragon Fang	￼	Items pocket
+251	0x00FB	￼	Silk Scarf	￼	Items pocket
+252	0x00FC	￼	Up-Grade	￼	Items pocket
+253	0x00FD	￼	Shell Bell	￼	Items pocket
+254	0x00FE	￼	Sea Incense	￼	Items pocket
+255	0x00FF	￼	Lax Incense	￼	Items pocket
+256	0x0100	￼	Lucky Punch	￼	Items pocket
+257	0x0101	￼	Metal Powder	￼	Items pocket
+258	0x0102	￼	Thick Club	￼	Items pocket
+259	0x0103	￼	Stick	￼	Items pocket
+260	0x0104	￼	Red Scarf	￼	Items pocket
+261	0x0105	￼	Blue Scarf	￼	Items pocket
+262	0x0106	￼	Pink Scarf	￼	Items pocket
+263	0x0107	￼	Green Scarf	￼	Items pocket
+264	0x0108	￼	Yellow Scarf	￼	Items pocket
+265	0x0109	￼	Wide Lens	￼	Items pocket
+266	0x010A	￼	Muscle Band	￼	Items pocket
+267	0x010B	￼	Wise Glasses	￼	Items pocket
+268	0x010C	￼	Expert Belt	￼	Items pocket
+269	0x010D	￼	Light Clay	￼	Items pocket
+270	0x010E	￼	Life Orb	￼	Items pocket
+271	0x010F	￼	Power Herb	￼	Items pocket
+272	0x0110	￼	Toxic Orb	￼	Items pocket
+273	0x0111	￼	Flame Orb	￼	Items pocket
+274	0x0112	￼	Quick Powder	￼	Items pocket
+275	0x0113	￼	Focus Sash	￼	Items pocket
+276	0x0114	￼	Zoom Lens	￼	Items pocket
+277	0x0115	￼	Metronome	￼	Items pocket
+278	0x0116	￼	Iron Ball	￼	Items pocket
+279	0x0117	￼	Lagging Tail	￼	Items pocket
+280	0x0118	￼	Destiny Knot	￼	Items pocket
+281	0x0119	￼	Black Sludge	￼	Items pocket
+282	0x011A	￼	Icy Rock	￼	Items pocket
+283	0x011B	￼	Smooth Rock	￼	Items pocket
+284	0x011C	￼	Heat Rock	￼	Items pocket
+285	0x011D	￼	Damp Rock	￼	Items pocket
+286	0x011E	￼	Grip Claw	￼	Items pocket
+287	0x011F	￼	Choice Scarf	￼	Items pocket
+288	0x0120	￼	Sticky Barb	￼	Items pocket
+289	0x0121	￼	Power Bracer	￼	Items pocket
+290	0x0122	￼	Power Belt	￼	Items pocket
+291	0x0123	￼	Power Lens	￼	Items pocket
+292	0x0124	￼	Power Band	￼	Items pocket
+293	0x0125	￼	Power Anklet	￼	Items pocket
+294	0x0126	￼	Power Weight	￼	Items pocket
+295	0x0127	￼	Shed Shell	￼	Items pocket
+296	0x0128	￼	Big Root	￼	Items pocket
+297	0x0129	￼	Choice Specs	￼	Items pocket
+298	0x012A	￼	Flame Plate	￼	Items pocket
+299	0x012B	￼	Splash Plate	￼	Items pocket
+300	0x012C	￼	Zap Plate	￼	Items pocket
+301	0x012D	￼	Meadow Plate	￼	Items pocket
+302	0x012E	￼	Icicle Plate	￼	Items pocket
+303	0x012F	￼	Fist Plate	￼	Items pocket
+304	0x0130	￼	Toxic Plate	￼	Items pocket
+305	0x0131	￼	Earth Plate	￼	Items pocket
+306	0x0132	￼	Sky Plate	￼	Items pocket
+307	0x0133	￼	Mind Plate	￼	Items pocket
+308	0x0134	￼	Insect Plate	￼	Items pocket
+309	0x0135	￼	Stone Plate	￼	Items pocket
+310	0x0136	￼	Spooky Plate	￼	Items pocket
+311	0x0137	￼	Draco Plate	￼	Items pocket
+312	0x0138	￼	Dread Plate	￼	Items pocket
+313	0x0139	￼	Iron Plate	￼	Items pocket
+314	0x013A	￼	Odd Incense	￼	Items pocket
+315	0x013B	￼	Rock Incense	￼	Items pocket
+316	0x013C	￼	Full Incense	￼	Items pocket
+317	0x013D	￼	Wave Incense	￼	Items pocket
+318	0x013E	￼	Rose Incense	￼	Items pocket
+319	0x013F	￼	Luck Incense	￼	Items pocket
+320	0x0140	￼	Pure Incense	￼	Items pocket
+321	0x0141	￼	Protector	￼	Items pocket
+322	0x0142	￼	Electirizer	￼	Items pocket
+323	0x0143	￼	Magmarizer	￼	Items pocket
+324	0x0144	￼	Dubious Disc	￼	Items pocket
+325	0x0145	￼	Reaper Cloth	￼	Items pocket
+326	0x0146	￼	Razor Claw	￼	Items pocket
+327	0x0147	￼	Razor Fang	￼	Items pocket
+328	0x0148	￼	TM01	￼	TMs and HMs pocket
+329	0x0149	￼	TM02	￼	TMs and HMs pocket
+330	0x014A	￼	TM03	￼	TMs and HMs pocket
+331	0x014B	￼	TM04	￼	TMs and HMs pocket
+332	0x014C	￼	TM05	￼	TMs and HMs pocket
+333	0x014D	￼	TM06	￼	TMs and HMs pocket
+334	0x014E	￼	TM07	￼	TMs and HMs pocket
+335	0x014F	￼	TM08	￼	TMs and HMs pocket
+336	0x0150	￼	TM09	￼	TMs and HMs pocket
+337	0x0151	￼	TM10	￼	TMs and HMs pocket
+338	0x0152	￼	TM11	￼	TMs and HMs pocket
+339	0x0153	￼	TM12	￼	TMs and HMs pocket
+340	0x0154	￼	TM13	￼	TMs and HMs pocket
+341	0x0155	￼	TM14	￼	TMs and HMs pocket
+342	0x0156	￼	TM15	￼	TMs and HMs pocket
+343	0x0157	￼	TM16	￼	TMs and HMs pocket
+344	0x0158	￼	TM17	￼	TMs and HMs pocket
+345	0x0159	￼	TM18	￼	TMs and HMs pocket
+346	0x015A	￼	TM19	￼	TMs and HMs pocket
+347	0x015B	￼	TM20	￼	TMs and HMs pocket
+348	0x015C	￼	TM21	￼	TMs and HMs pocket
+349	0x015D	￼	TM22	￼	TMs and HMs pocket
+350	0x015E	￼	TM23	￼	TMs and HMs pocket
+351	0x015F	￼	TM24	￼	TMs and HMs pocket
+352	0x0160	￼	TM25	￼	TMs and HMs pocket
+353	0x0161	￼	TM26	￼	TMs and HMs pocket
+354	0x0162	￼	TM27	￼	TMs and HMs pocket
+355	0x0163	￼	TM28	￼	TMs and HMs pocket
+356	0x0164	￼	TM29	￼	TMs and HMs pocket
+357	0x0165	￼	TM30	￼	TMs and HMs pocket
+358	0x0166	￼	TM31	￼	TMs and HMs pocket
+359	0x0167	￼	TM32	￼	TMs and HMs pocket
+360	0x0168	￼	TM33	￼	TMs and HMs pocket
+361	0x0169	￼	TM34	￼	TMs and HMs pocket
+362	0x016A	￼	TM35	￼	TMs and HMs pocket
+363	0x016B	￼	TM36	￼	TMs and HMs pocket
+364	0x016C	￼	TM37	￼	TMs and HMs pocket
+365	0x016D	￼	TM38	￼	TMs and HMs pocket
+366	0x016E	￼	TM39	￼	TMs and HMs pocket
+367	0x016F	￼	TM40	￼	TMs and HMs pocket
+368	0x0170	￼	TM41	￼	TMs and HMs pocket
+369	0x0171	￼	TM42	￼	TMs and HMs pocket
+370	0x0172	￼	TM43	￼	TMs and HMs pocket
+371	0x0173	￼	TM44	￼	TMs and HMs pocket
+372	0x0174	￼	TM45	￼	TMs and HMs pocket
+373	0x0175	￼	TM46	￼	TMs and HMs pocket
+374	0x0176	￼	TM47	￼	TMs and HMs pocket
+375	0x0177	￼	TM48	￼	TMs and HMs pocket
+376	0x0178	￼	TM49	￼	TMs and HMs pocket
+377	0x0179	￼	TM50	￼	TMs and HMs pocket
+378	0x017A	￼	TM51	￼	TMs and HMs pocket
+379	0x017B	￼	TM52	￼	TMs and HMs pocket
+380	0x017C	￼	TM53	￼	TMs and HMs pocket
+381	0x017D	￼	TM54	￼	TMs and HMs pocket
+382	0x017E	￼	TM55	￼	TMs and HMs pocket
+383	0x017F	￼	TM56	￼	TMs and HMs pocket
+384	0x0180	￼	TM57	￼	TMs and HMs pocket
+385	0x0181	￼	TM58	￼	TMs and HMs pocket
+386	0x0182	￼	TM59	￼	TMs and HMs pocket
+387	0x0183	￼	TM60	￼	TMs and HMs pocket
+388	0x0184	￼	TM61	￼	TMs and HMs pocket
+389	0x0185	￼	TM62	￼	TMs and HMs pocket
+390	0x0186	￼	TM63	￼	TMs and HMs pocket
+391	0x0187	￼	TM64	￼	TMs and HMs pocket
+392	0x0188	￼	TM65	￼	TMs and HMs pocket
+393	0x0189	￼	TM66	￼	TMs and HMs pocket
+394	0x018A	￼	TM67	￼	TMs and HMs pocket
+395	0x018B	￼	TM68	￼	TMs and HMs pocket
+396	0x018C	￼	TM69	￼	TMs and HMs pocket
+397	0x018D	￼	TM70	￼	TMs and HMs pocket
+398	0x018E	￼	TM71	￼	TMs and HMs pocket
+399	0x018F	￼	TM72	￼	TMs and HMs pocket
+400	0x0190	￼	TM73	￼	TMs and HMs pocket
+401	0x0191	￼	TM74	￼	TMs and HMs pocket
+402	0x0192	￼	TM75	￼	TMs and HMs pocket
+403	0x0193	￼	TM76	￼	TMs and HMs pocket
+404	0x0194	￼	TM77	￼	TMs and HMs pocket
+405	0x0195	￼	TM78	￼	TMs and HMs pocket
+406	0x0196	￼	TM79	￼	TMs and HMs pocket
+407	0x0197	￼	TM80	￼	TMs and HMs pocket
+408	0x0198	￼	TM81	￼	TMs and HMs pocket
+409	0x0199	￼	TM82	￼	TMs and HMs pocket
+410	0x019A	￼	TM83	￼	TMs and HMs pocket
+411	0x019B	￼	TM84	￼	TMs and HMs pocket
+412	0x019C	￼	TM85	￼	TMs and HMs pocket
+413	0x019D	￼	TM86	￼	TMs and HMs pocket
+414	0x019E	￼	TM87	￼	TMs and HMs pocket
+415	0x019F	￼	TM88	￼	TMs and HMs pocket
+416	0x01A0	￼	TM89	￼	TMs and HMs pocket
+417	0x01A1	￼	TM90	￼	TMs and HMs pocket
+418	0x01A2	￼	TM91	￼	TMs and HMs pocket
+419	0x01A3	￼	TM92	￼	TMs and HMs pocket
+420	0x01A4	￼	HM01	￼	TMs and HMs pocket
+421	0x01A5	￼	HM02	￼	TMs and HMs pocket
+422	0x01A6	￼	HM03	￼	TMs and HMs pocket
+423	0x01A7	￼	HM04	￼	TMs and HMs pocket
+424	0x01A8	￼	HM05	￼	TMs and HMs pocket
+425	0x01A9	￼	HM06*	￼	TMs and HMs pocket
+425	0x01A9	￼	HM06*	￼	TMs and HMs pocket
+426	0x01AA	￼	unknown	￼	Unknown pocket
+427	0x01AB	￼	unknown	￼	Unknown pocket
+428	0x01AC	￼	Explorer Kit	￼	Key items pocket
+429	0x01AD	￼	Loot Sack	￼	Key items pocket
+430	0x01AE	￼	Rule Book	￼	Key items pocket
+431	0x01AF	￼	Poké Radar	￼	Key items pocket
+432	0x01B0	￼	Point Card	￼	Key items pocket
+433	0x01B1	￼	Journal	￼	Key items pocket
+434	0x01B2	￼	Seal Case	￼	Key items pocket
+435	0x01B3	￼	Fashion Case	￼	Key items pocket
+436	0x01B4	￼	Seal Bag	￼	Key items pocket
+437	0x01B5	￼	Pal Pad	￼	Key items pocket
+438	0x01B6	￼	Works Key	￼	Key items pocket
+439	0x01B7	￼	Old Charm	￼	Key items pocket
+440	0x01B8	￼	Galactic Key	￼	Key items pocket
+441	0x01B9	￼	Red Chain	￼	Key items pocket
+442	0x01BA	￼	Town Map	￼	Key items pocket
+443	0x01BB	￼	Vs. Seeker	￼	Key items pocket
+444	0x01BC	￼	Coin Case	￼	Key items pocket
+445	0x01BD	￼	Old Rod	￼	Key items pocket
+446	0x01BE	￼	Good Rod	￼	Key items pocket
+447	0x01BF	￼	Super Rod	￼	Key items pocket
+448	0x01C0	￼	Sprayduck	￼	Key items pocket
+449	0x01C1	￼	Poffin Case	￼	Key items pocket
+450	0x01C2	￼	Bicycle*	￼	Key items pocket
+450	0x01C2	￼	Bike*	￼	Key items pocket
+451	0x01C3	￼	Suite Key	￼	Key items pocket
+452	0x01C4	￼	Oak's Letter	￼	Key items pocket
+453	0x01C5	￼	Lunar Wing	￼	Key items pocket
+454	0x01C6	￼	Member Card	￼	Key items pocket
+455	0x01C7	￼	Azure Flute	￼	Key items pocket
+456	0x01C8	￼	S.S. Ticket	￼	Key items pocket
+457	0x01C9	￼	Contest Pass	￼	Key items pocket
+458	0x01CA	￼	Magma Stone	￼	Key items pocket
+459	0x01CB	￼	Parcel	￼	Key items pocket
+460	0x01CC	￼	Coupon 1	￼	Key items pocket
+461	0x01CD	￼	Coupon 2	￼	Key items pocket
+462	0x01CE	￼	Coupon 3	￼	Key items pocket
+463	0x01CF	￼	Storage Key	￼	Key items pocket
+464	0x01D0	￼	Secret Potion	￼	Key items pocket
+465	0x01D1	￼	Vs. Recorder	￼	Key items pocket
+466	0x01D2	￼	Gracidea	￼	Key items pocket
+467	0x01D3	￼	Secret Key	￼	Key items pocket
+468	0x01D4	￼	Apricorn Box	￼	Key items pocket
+469	0x01D5	￼	Unown Report	￼	Key items pocket
+470	0x01D6	￼	Berry Pots	￼	Key items pocket
+471	0x01D7	￼	Dowsing Machine*	￼	Key items pocket
+471	0x01D7	￼	Dowsing Machine*	￼	Key items pocket
+472	0x01D8	￼	Blue Card	￼	Key items pocket
+473	0x01D9	￼	Slowpoke Tail	￼	Key items pocket
+474	0x01DA	￼	Clear Bell	￼	Key items pocket
+475	0x01DB	￼	Card Key	￼	Key items pocket
+476	0x01DC	￼	Basement Key	￼	Key items pocket
+477	0x01DD	￼	Squirt Bottle	￼	Key items pocket
+478	0x01DE	￼	Red Scale	￼	Key items pocket
+479	0x01DF	￼	Lost Item	￼	Key items pocket
+480	0x01E0	￼	Pass	￼	Key items pocket
+481	0x01E1	￼	Machine Part	￼	Key items pocket
+482	0x01E2	￼	Silver Wing	￼	Key items pocket
+483	0x01E3	￼	Rainbow Wing	￼	Key items pocket
+484	0x01E4	￼	Mystery Egg	￼	Key items pocket
+485	0x01E5	￼	Red Apricorn	￼	Items pocket
+486	0x01E6	￼	Blue Apricorn	￼	Items pocket
+487	0x01E7	￼	Yellow Apricorn	￼	Items pocket
+488	0x01E8	￼	Green Apricorn	￼	Items pocket
+489	0x01E9	￼	Pink Apricorn	￼	Items pocket
+490	0x01EA	￼	White Apricorn	￼	Items pocket
+491	0x01EB	￼	Black Apricorn	￼	Items pocket
+492	0x01EC	￼	Fast Ball	￼	Items pocket
+493	0x01ED	￼	Level Ball	￼	Items pocket
+494	0x01EE	￼	Lure Ball	￼	Items pocket
+495	0x01EF	￼	Heavy Ball	￼	Items pocket
+496	0x01F0	￼	Love Ball	￼	Items pocket
+497	0x01F1	￼	Friend Ball	￼	Items pocket
+498	0x01F2	￼	Moon Ball	￼	Items pocket
+499	0x01F3	￼	Sport Ball	￼	Items pocket
+500	0x01F4	￼	Park Ball	￼	Items pocket
+501	0x01F5	￼	Photo Album	￼	Key items pocket
+502	0x01F6	￼	GB Sounds	￼	Key items pocket
+503	0x01F7	￼	Tidal Bell	￼	Key items pocket
+504	0x01F8	￼	Rage Candy Bar	￼	Medicine pocket
+505	0x01F9	￼	Data Card 01	￼	Items pocket
+506	0x01FA	￼	Data Card 02	￼	Items pocket
+507	0x01FB	￼	Data Card 03	￼	Items pocket
+508	0x01FC	￼	Data Card 04	￼	Items pocket
+509	0x01FD	￼	Data Card 05	￼	Items pocket
+510	0x01FE	￼	Data Card 06	￼	Items pocket
+511	0x01FF	￼	Data Card 07	￼	Items pocket
+512	0x0200	￼	Data Card 08	￼	Items pocket
+513	0x0201	￼	Data Card 09	￼	Items pocket
+514	0x0202	￼	Data Card 10	￼	Items pocket
+515	0x0203	￼	Data Card 11	￼	Items pocket
+516	0x0204	￼	Data Card 12	￼	Items pocket
+517	0x0205	￼	Data Card 13	￼	Items pocket
+518	0x0206	￼	Data Card 14	￼	Items pocket
+519	0x0207	￼	Data Card 15	￼	Items pocket
+520	0x0208	￼	Data Card 16	￼	Items pocket
+521	0x0209	￼	Data Card 17	￼	Items pocket
+522	0x020A	￼	Data Card 18	￼	Items pocket
+523	0x020B	￼	Data Card 19	￼	Items pocket
+524	0x020C	￼	Data Card 20	￼	Items pocket
+525	0x020D	￼	Data Card 21	￼	Items pocket
+526	0x020E	￼	Data Card 22	￼	Items pocket
+527	0x020F	￼	Data Card 23	￼	Items pocket
+528	0x0210	￼	Data Card 24	￼	Items pocket
+529	0x0211	￼	Data Card 25	￼	Items pocket
+530	0x0212	￼	Data Card 26	￼	Items pocket
+531	0x0213	￼	Data Card 27	￼	Items pocket
+532	0x0214	￼	Jade Orb	￼	Key items pocket
+533	0x0215	￼	Lock Capsule	￼	Key items pocket
+534	0x0216	￼	Red Orb*	￼	Key items pocket
+534	0x0216	￼	Red Orb*	￼	Items pocket
+535	0x0217	￼	Blue Orb*	￼	Key items pocket
+535	0x0217	￼	Blue Orb*	￼	Items pocket
+536	0x0218	￼	Enigma Stone	￼	Key items pocket
+537	0x0219	￼	Prism Scale	￼	Items pocket
+538	0x021A	￼	Eviolite	￼	Items pocket
+539	0x021B	￼	Float Stone	￼	Items pocket
+540	0x021C	￼	Rocky Helmet	￼	Items pocket
+541	0x021D	￼	Air Balloon	￼	Items pocket
+542	0x021E	￼	Red Card	￼	Items pocket
+543	0x021F	￼	Ring Target	￼	Items pocket
+544	0x0220	￼	Binding Band	￼	Items pocket
+545	0x0221	￼	Absorb Bulb	￼	Items pocket
+546	0x0222	￼	Cell Battery	￼	Items pocket
+547	0x0223	￼	Eject Button	￼	Items pocket
+548	0x0224	￼	Fire Gem	￼	Items pocket
+549	0x0225	￼	Water Gem	￼	Items pocket
+550	0x0226	￼	Electric Gem	￼	Items pocket
+551	0x0227	￼	Grass Gem	￼	Items pocket
+552	0x0228	￼	Ice Gem	￼	Items pocket
+553	0x0229	￼	Fighting Gem	￼	Items pocket
+554	0x022A	￼	Poison Gem	￼	Items pocket
+555	0x022B	￼	Ground Gem	￼	Items pocket
+556	0x022C	￼	Flying Gem	￼	Items pocket
+557	0x022D	￼	Psychic Gem	￼	Items pocket
+558	0x022E	￼	Bug Gem	￼	Items pocket
+559	0x022F	￼	Rock Gem	￼	Items pocket
+560	0x0230	￼	Ghost Gem	￼	Items pocket
+561	0x0231	￼	Dragon Gem	￼	Items pocket
+562	0x0232	￼	Dark Gem	￼	Items pocket
+563	0x0233	￼	Steel Gem	￼	Items pocket
+564	0x0234	￼	Normal Gem	￼	Items pocket
+565	0x0235	￼	Health Wing	￼	Medicine pocket
+566	0x0236	￼	Muscle Wing	￼	Medicine pocket
+567	0x0237	￼	Resist Wing	￼	Medicine pocket
+568	0x0238	￼	Genius Wing	￼	Medicine pocket
+569	0x0239	￼	Clever Wing	￼	Medicine pocket
+570	0x023A	￼	Swift Wing	￼	Medicine pocket
+571	0x023B	￼	Pretty Wing	￼	Items pocket
+572	0x023C	￼	Cover Fossil	￼	Items pocket
+573	0x023D	￼	Plume Fossil	￼	Items pocket
+574	0x023E	￼	Liberty Pass	￼	Key items pocket
+575	0x023F	￼	Pass Orb	￼	Items pocket
+576	0x0240	￼	Dream Ball	￼	Items pocket
+577	0x0241	￼	Poké Toy	￼	Items pocket
+578	0x0242	￼	Prop Case	￼	Key items pocket
+579	0x0243	￼	Dragon Skull	￼	Key items pocket
+580	0x0244	￼	Balm Mushroom	￼	Items pocket
+581	0x0245	￼	Big Nugget	￼	Items pocket
+582	0x0246	￼	Pearl String	￼	Items pocket
+583	0x0247	￼	Comet Shard	￼	Items pocket
+584	0x0248	￼	Relic Copper	￼	Items pocket
+585	0x0249	￼	Relic Silver	￼	Items pocket
+586	0x024A	￼	Relic Gold	￼	Items pocket
+587	0x024B	￼	Relic Vase	￼	Items pocket
+588	0x024C	￼	Relic Band	￼	Items pocket
+589	0x024D	￼	Relic Statue	￼	Items pocket
+590	0x024E	￼	Relic Crown	￼	Items pocket
+591	0x024F	￼	Casteliacone	￼	Medicine pocket
+592	0x0250	￼	Dire Hit 2	￼	Items pocket
+593	0x0251	￼	X Speed 2	￼	Items pocket
+594	0x0252	￼	X Sp. Atk 2	￼	Items pocket
+595	0x0253	￼	X Sp. Def 2	￼	Items pocket
+596	0x0254	￼	X Defense 2	￼	Items pocket
+597	0x0255	￼	X Attack 2	￼	Items pocket
+598	0x0256	￼	X Accuracy 2	￼	Items pocket
+599	0x0257	￼	X Speed 3	￼	Items pocket
+600	0x0258	￼	X Sp. Atk 3	￼	Items pocket
+601	0x0259	￼	X Sp. Def 3	￼	Items pocket
+602	0x025A	￼	X Defense 3	￼	Items pocket
+603	0x025B	￼	X Attack 3	￼	Items pocket
+604	0x025C	￼	X Accuracy 3	￼	Items pocket
+605	0x025D	￼	X Speed 6	￼	Items pocket
+606	0x025E	￼	X Sp. Atk 6	￼	Items pocket
+607	0x025F	￼	X Sp. Def 6	￼	Items pocket
+608	0x0260	￼	X Defense 6	￼	Items pocket
+609	0x0261	￼	X Attack 6	￼	Items pocket
+610	0x0262	￼	X Accuracy 6	￼	Items pocket
+611	0x0263	￼	Ability Urge	￼	Items pocket
+612	0x0264	￼	Item Drop	￼	Items pocket
+613	0x0265	￼	Item Urge	￼	Items pocket
+614	0x0266	￼	Reset Urge	￼	Items pocket
+615	0x0267	￼	Dire Hit 3	￼	Items pocket
+616	0x0268	￼	Light Stone	￼	Key items pocket
+617	0x0269	￼	Dark Stone	￼	Key items pocket
+618	0x026A	￼	TM93	￼	TMs and HMs pocket
+619	0x026B	￼	TM94*	￼	TMs and HMs pocket
+619	0x026B	￼	TM94*	￼	TMs and HMs pocket
+620	0x026C	￼	TM95	￼	TMs and HMs pocket
+621	0x026D	￼	Xtransceiver	￼	Key items pocket
+622	0x026E	￼	???	￼	Key items pocket
+623	0x026F	￼	Gram 1	￼	Key items pocket
+624	0x0270	￼	Gram 2	￼	Key items pocket
+625	0x0271	￼	Gram 3	￼	Key items pocket
+626	0x0272	￼	Xtransceiver	￼	Key items pocket
+627	0x0273	￼	Medal Box	￼	Key items pocket
+628	0x0274	￼	DNA Splicers	￼	Key items pocket
+629	0x0275	￼	DNA Splicers	￼	Key items pocket
+630	0x0276	￼	Permit	￼	Key items pocket
+631	0x0277	￼	Oval Charm	￼	Key items pocket
+632	0x0278	￼	Shiny Charm	￼	Key items pocket
+633	0x0279	￼	Plasma Card	￼	Key items pocket
+634	0x027A	￼	Grubby Hanky	￼	Key items pocket
+635	0x027B	￼	Colress Machine	￼	Key items pocket
+636	0x027C	￼	Dropped Item	￼	Key items pocket
+637	0x027D	￼	Dropped Item	￼	Key items pocket
+638	0x027E	￼	Reveal Glass	￼	Key items pocket
+639	0x027F	￼	Weakness Policy	￼	Items pocket
+640	0x0280	￼	Assault Vest	￼	Items pocket
+641	0x0281	￼	Holo Caster	￼	Key items pocket
+642	0x0282	￼	Prof's Letter	￼	Key items pocket
+643	0x0283	￼	Roller Skates	￼	Key items pocket
+644	0x0284	￼	Pixie Plate	￼	Items pocket
+645	0x0285	￼	Ability Capsule	￼	Medicine pocket
+646	0x0286	￼	Whipped Dream	￼	Items pocket
+647	0x0287	￼	Sachet	￼	Items pocket
+648	0x0288	￼	Luminous Moss	￼	Items pocket
+649	0x0289	￼	Snowball	￼	Items pocket
+650	0x028A	￼	Safety Goggles	￼	Items pocket
+651	0x028B	￼	Poké Flute	￼	Key items pocket
+652	0x028C	￼	Rich Mulch	￼	Items pocket
+653	0x028D	￼	Surprise Mulch	￼	Items pocket
+654	0x028E	￼	Boost Mulch	￼	Items pocket
+655	0x028F	￼	Amaze Mulch	￼	Items pocket
+656	0x0290	￼	Gengarite	￼	Items pocket
+657	0x0291	￼	Gardevoirite	￼	Items pocket
+658	0x0292	￼	Ampharosite	￼	Items pocket
+659	0x0293	￼	Venusaurite	￼	Items pocket
+660	0x0294	￼	Charizardite X	￼	Items pocket
+661	0x0295	￼	Blastoisinite	￼	Items pocket
+662	0x0296	￼	Mewtwonite X	￼	Items pocket
+663	0x0297	￼	Mewtwonite Y	￼	Items pocket
+664	0x0298	￼	Blazikenite	￼	Items pocket
+665	0x0299	￼	Medichamite	￼	Items pocket
+666	0x029A	￼	Houndoominite	￼	Items pocket
+667	0x029B	￼	Aggronite	￼	Items pocket
+668	0x029C	￼	Banettite	￼	Items pocket
+669	0x029D	￼	Tyranitarite	￼	Items pocket
+670	0x029E	￼	Scizorite	￼	Items pocket
+671	0x029F	￼	Pinsirite	￼	Items pocket
+672	0x02A0	￼	Aerodactylite	￼	Items pocket
+673	0x02A1	￼	Lucarionite	￼	Items pocket
+674	0x02A2	￼	Abomasite	￼	Items pocket
+675	0x02A3	￼	Kangaskhanite	￼	Items pocket
+676	0x02A4	￼	Gyaradosite	￼	Items pocket
+677	0x02A5	￼	Absolite	￼	Items pocket
+678	0x02A6	￼	Charizardite Y	￼	Items pocket
+679	0x02A7	￼	Alakazite	￼	Items pocket
+680	0x02A8	￼	Heracronite	￼	Items pocket
+681	0x02A9	￼	Mawilite	￼	Items pocket
+682	0x02AA	￼	Manectite	￼	Items pocket
+683	0x02AB	￼	Garchompite	￼	Items pocket
+684	0x02AC	￼	Latiasite	￼	Items pocket
+685	0x02AD	￼	Latiosite	￼	Items pocket
+686	0x02AE	￼	Roseli Berry	￼	Berries pocket
+687	0x02AF	￼	Kee Berry	￼	Berries pocket
+688	0x02B0	￼	Maranga Berry	￼	Berries pocket
+689	0x02B1	￼	Sprinklotad	￼	Key items pocket
+690	0x02B2	￼	TM96	￼	TMs and HMs pocket
+691	0x02B3	￼	TM97	￼	TMs and HMs pocket
+692	0x02B4	￼	TM98	￼	TMs and HMs pocket
+693	0x02B5	￼	TM99	￼	TMs and HMs pocket
+694	0x02B6	￼	TM100	￼	TMs and HMs pocket
+695	0x02B7	￼	Power Plant Pass	￼	Key items pocket
+696	0x02B8	￼	Mega Ring	￼	Key items pocket
+697	0x02B9	￼	Intriguing Stone	￼	Key items pocket
+698	0x02BA	￼	Common Stone	￼	Key items pocket
+699	0x02BB	￼	Discount Coupon	￼	Items pocket
+700	0x02BC	￼	Elevator Key	￼	Key items pocket
+701	0x02BD	￼	TMV Pass	￼	Key items pocket
+702	0x02BE	￼	Honor of Kalos	￼	Key items pocket
+703	0x02BF	￼	Adventure Rules	￼	Key items pocket
+704	0x02C0	￼	Strange Souvenir	￼	Items pocket
+705	0x02C1	￼	Lens Case	￼	Key items pocket
+706	0x02C2	￼	Travel Trunk	￼	Key items pocket
+707	0x02C3	￼	Travel Trunk	￼	Key items pocket
+708	0x02C4	￼	Lumiose Galette	￼	Medicine pocket
+709	0x02C5	￼	Shalour Sable	￼	Medicine pocket
+710	0x02C6	￼	Jaw Fossil	￼	Items pocket
+711	0x02C7	￼	Sail Fossil	￼	Items pocket
+712	0x02C8	￼	Looker Ticket	￼	Key items pocket
+713	0x02C9	￼	Bicycle*	￼	Key items pocket
+713	0x02C9	￼	Bike*	￼	Key items pocket
+714	0x02CA	￼	Holo Caster	￼	Key items pocket
+715	0x02CB	￼	Fairy Gem	￼	Items pocket
+716	0x02CC	￼	Mega Charm*	￼	Key items pocket
+716	0x02CC	￼	Mega Charm*	￼	Key items pocket
+717	0x02CD	￼	Mega Glove	￼	Key items pocket
+718	0x02CE	￼	Mach Bike*	￼	Key items pocket
+719	0x02CF	￼	Acro Bike*	￼	Key items pocket
+720	0x02D0	￼	Wailmer Pail*	￼	Key items pocket
+721	0x02D1	￼	Devon Parts*	￼	Key items pocket
+722	0x02D2	￼	Soot Sack*	￼	Key items pocket
+723	0x02D3	￼	Basement Key*	￼	Key items pocket
+724	0x02D4	￼	Pokéblock Kit*	￼	Key items pocket
+725	0x02D5	￼	Letter*	￼	Key items pocket
+726	0x02D6	￼	Eon Ticket*	￼	Key items pocket
+727	0x02D7	￼	Scanner*	￼	Key items pocket
+728	0x02D8	￼	Go-Goggles*	￼	Key items pocket
+729	0x02D9	￼	Meteorite*	￼	Key items pocket
+730	0x02DA	￼	Key to Room 1*	￼	Key items pocket
+731	0x02DB	￼	Key to Room 2*	￼	Key items pocket
+732	0x02DC	￼	Key to Room 4*	￼	Key items pocket
+733	0x02DD	￼	Key to Room 6*	￼	Key items pocket
+734	0x02DE	￼	Storage Key*	￼	Key items pocket
+735	0x02DF	￼	Devon Scope*	￼	Key items pocket
+736	0x02E0	￼	S.S. Ticket*	￼	Key items pocket
+737	0x02E1	￼	HM07*	￼	TMs and HMs pocket
+738	0x02E2	￼	Devon Scuba Gear*	￼	Key items pocket
+739	0x02E3	￼	Contest Costume*	￼	Key items pocket
+740	0x02E4	￼	Contest Costume*	￼	Key items pocket
+741	0x02E5	￼	Magma Suit*	￼	Key items pocket
+742	0x02E6	￼	Aqua Suit*	￼	Key items pocket
+743	0x02E7	￼	Pair of Tickets*	￼	Key items pocket
+744	0x02E8	￼	Mega Bracelet*	￼	Key items pocket
+745	0x02E9	￼	Mega Pendant*	￼	Key items pocket
+746	0x02EA	￼	Mega Glasses*	￼	Key items pocket
+747	0x02EB	￼	Mega Anchor*	￼	Key items pocket
+748	0x02EC	￼	Mega Stickpin*	￼	Key items pocket
+749	0x02ED	￼	Mega Tiara*	￼	Key items pocket
+750	0x02EE	￼	Mega Anklet*	￼	Key items pocket
+751	0x02EF	￼	Meteorite*	￼	Key items pocket
+752	0x02F0	￼	Swampertite*	￼	Items pocket
+753	0x02F1	￼	Sceptilite*	￼	Items pocket
+754	0x02F2	￼	Sablenite*	￼	Items pocket
+755	0x02F3	￼	Altarianite*	￼	Items pocket
+756	0x02F4	￼	Galladite*	￼	Items pocket
+757	0x02F5	￼	Audinite*	￼	Items pocket
+758	0x02F6	￼	Metagrossite*	￼	Items pocket
+759	0x02F7	￼	Sharpedonite*	￼	Items pocket
+760	0x02F8	￼	Slowbronite*	￼	Items pocket
+761	0x02F9	￼	Steelixite*	￼	Items pocket
+762	0x02FA	￼	Pidgeotite*	￼	Items pocket
+763	0x02FB	￼	Glalitite*	￼	Items pocket
+764	0x02FC	￼	Diancite*	￼	Items pocket
+765	0x02FD	￼	Prison Bottle*	￼	Key items pocket
+766	0x02FE	￼	Mega Cuff*	￼	Key items pocket
+767	0x02FF	￼	Cameruptite*	￼	Items pocket
+768	0x0300	￼	Lopunnite*	￼	Items pocket
+769	0x0301	￼	Salamencite*	￼	Items pocket
+770	0x0302	￼	Beedrillite*	￼	Items pocket
+771	0x0303	￼	Meteorite*	￼	Key items pocket
+772	0x0304	￼	Meteorite*	￼	Key items pocket
+773	0x0305	￼	Key Stone*	￼	Key items pocket
+774	0x0306	￼	Meteorite Shard*	￼	Key items pocket
+775	0x0307	￼	Eon Flute*	￼	Key items pocket

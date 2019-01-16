@@ -1,0 +1,256 @@
+000	0x00	?	￼	Items pocket
+001	0x01	Master Ball	￼	Poké Balls pocket
+002	0x02	Ultra Ball	￼	Poké Balls pocket
+003	0x03	BrightPowder	￼	Items pocket
+004	0x04	Great Ball	￼	Poké Balls pocket
+005	0x05	Poké Ball	￼	Poké Balls pocket
+006	0x06	Teru-sama	￼	Items pocket
+007	0x07	Bicycle	￼	Key items pocket
+008	0x08	Moon Stone	￼	Items pocket
+009	0x09	Antidote	￼	Items pocket
+010	0x0A	Burn Heal	￼	Items pocket
+011	0x0B	Ice Heal	￼	Items pocket
+012	0x0C	Awakening	￼	Items pocket
+013	0x0D	Parlyz Heal	￼	Items pocket
+014	0x0E	Full Restore	￼	Items pocket
+015	0x0F	Max Potion	￼	Items pocket
+016	0x10	Hyper Potion	￼	Items pocket
+017	0x11	Super Potion	￼	Items pocket
+018	0x12	Potion	￼	Items pocket
+019	0x13	Escape Rope	￼	Items pocket
+020	0x14	Repel	￼	Items pocket
+021	0x15	Max Elixer	￼	Items pocket
+022	0x16	Fire Stone	￼	Items pocket
+023	0x17	Thunderstone	￼	Items pocket
+024	0x18	Water Stone	￼	Items pocket
+025	0x19	Teru-sama	￼	Items pocket
+026	0x1A	HP Up	￼	Items pocket
+027	0x1B	Protein	￼	Items pocket
+028	0x1C	Iron	￼	Items pocket
+029	0x1D	Carbos	￼	Items pocket
+030	0x1E	Lucky Punch	￼	Items pocket
+031	0x1F	Calcium	￼	Items pocket
+032	0x20	Rare Candy	￼	Items pocket
+033	0x21	X Accuracy	￼	Items pocket
+034	0x22	Leaf Stone	￼	Items pocket
+035	0x23	Metal Powder	￼	Items pocket
+036	0x24	Nugget	￼	Items pocket
+037	0x25	Poké Doll	￼	Items pocket
+038	0x26	Full Heal	￼	Items pocket
+039	0x27	Revive	￼	Items pocket
+040	0x28	Max Revive	￼	Items pocket
+041	0x29	Guard Spec.	￼	Items pocket
+042	0x2A	Super Repel	￼	Items pocket
+043	0x2B	Max Repel	￼	Items pocket
+044	0x2C	Dire Hit	￼	Items pocket
+045	0x2D	Teru-sama	￼	Items pocket
+046	0x2E	Fresh Water	￼	Items pocket
+047	0x2F	Soda Pop	￼	Items pocket
+048	0x30	Lemonade	￼	Items pocket
+049	0x31	X Attack	￼	Items pocket
+050	0x32	Teru-sama	￼	Items pocket
+051	0x33	X Defend	￼	Items pocket
+052	0x34	X Speed	￼	Items pocket
+053	0x35	X Special	￼	Items pocket
+054	0x36	Coin Case	￼	Key items pocket
+055	0x37	Itemfinder	￼	Key items pocket
+056	0x38	Teru-sama	￼	Items pocket
+057	0x39	Exp.Share	￼	Items pocket
+058	0x3A	Old Rod	￼	Key items pocket
+059	0x3B	Good Rod	￼	Key items pocket
+060	0x3C	Silver Leaf	￼	Items pocket
+061	0x3D	Super Rod	￼	Key items pocket
+062	0x3E	PP Up	￼	Items pocket
+063	0x3F	Ether	￼	Items pocket
+064	0x40	Max Ether	￼	Items pocket
+065	0x41	Elixer	￼	Items pocket
+066	0x42	Red Scale	￼	Key items pocket
+067	0x43	SecretPotion	￼	Key items pocket
+068	0x44	S.S. Ticket	￼	Key items pocket
+069	0x45	Mystery Egg	￼	Key items pocket
+070	0x46	Clear Bell*	￼	Key items pocket
+071	0x47	Silver Wing	￼	Key items pocket
+072	0x48	Moomoo Milk	￼	Items pocket
+073	0x49	Quick Claw	￼	Items pocket
+074	0x4A	PSNCureBerry	￼	Items pocket
+075	0x4B	Gold Leaf	￼	Items pocket
+076	0x4C	Soft Sand	￼	Items pocket
+077	0x4D	Sharp Beak	￼	Items pocket
+078	0x4E	PRZCureBerry	￼	Items pocket
+079	0x4F	Burnt Berry	￼	Items pocket
+080	0x50	Ice Berry	￼	Items pocket
+081	0x51	Poison Barb	￼	Items pocket
+082	0x52	King's Rock	￼	Items pocket
+083	0x53	Bitter Berry	￼	Items pocket
+084	0x54	Mint Berry	￼	Items pocket
+085	0x55	Red Apricorn	￼	Items pocket
+086	0x56	TinyMushroom	￼	Items pocket
+087	0x57	Big Mushroom	￼	Items pocket
+088	0x58	SilverPowder	￼	Items pocket
+089	0x59	Blu Apricorn	￼	Items pocket
+090	0x5A	Teru-sama	￼	Items pocket
+091	0x5B	Amulet Coin	￼	Items pocket
+092	0x5C	Ylw Apricorn	￼	Items pocket
+093	0x5D	Grn Apricorn	￼	Items pocket
+094	0x5E	Cleanse Tag	￼	Items pocket
+095	0x5F	Mystic Water	￼	Items pocket
+096	0x60	TwistedSpoon	￼	Items pocket
+097	0x61	Wht Apricorn	￼	Items pocket
+098	0x62	Blackbelt	￼	Items pocket
+099	0x63	Blk Apricorn	￼	Items pocket
+100	0x64	Teru-sama	￼	Items pocket
+101	0x65	Pnk Apricorn	￼	Items pocket
+102	0x66	BlackGlasses	￼	Items pocket
+103	0x67	SlowpokeTail	￼	Items pocket
+104	0x68	Pink Bow	￼	Items pocket
+105	0x69	Stick	￼	Items pocket
+106	0x6A	Smoke Ball	￼	Items pocket
+107	0x6B	NeverMeltIce	￼	Items pocket
+108	0x6C	Magnet	￼	Items pocket
+109	0x6D	MiracleBerry	￼	Items pocket
+110	0x6E	Pearl	￼	Items pocket
+111	0x6F	Big Pearl	￼	Items pocket
+112	0x70	Everstone	￼	Items pocket
+113	0x71	Spell Tag	￼	Items pocket
+114	0x72	RageCandyBar	￼	Items pocket
+115	0x73	GS Ball*	￼	Key items pocket
+116	0x74	Blue Card*	￼	Key items pocket
+117	0x75	Miracle Seed	￼	Items pocket
+118	0x76	Thick Club	￼	Items pocket
+119	0x77	Focus Band	￼	Items pocket
+120	0x78	Teru-sama	￼	Items pocket
+121	0x79	EnergyPowder	￼	Items pocket
+122	0x7A	Energy Root	￼	Items pocket
+123	0x7B	Heal Powder	￼	Items pocket
+124	0x7C	Revival Herb	￼	Items pocket
+125	0x7D	Hard Stone	￼	Items pocket
+126	0x7E	Lucky Egg	￼	Items pocket
+127	0x7F	Card Key	￼	Key items pocket
+128	0x80	Machine Part	￼	Key items pocket
+129	0x81	Egg Ticket*	￼	Key items pocket
+130	0x82	Lost Item	￼	Key items pocket
+131	0x83	Stardust	￼	Items pocket
+132	0x84	Star Piece	￼	Items pocket
+133	0x85	Basement Key	￼	Key items pocket
+134	0x86	Pass	￼	Key items pocket
+135	0x87	Teru-sama	￼	Items pocket
+136	0x88	Teru-sama	￼	Items pocket
+137	0x89	Teru-sama	￼	Items pocket
+138	0x8A	Charcoal	￼	Items pocket
+139	0x8B	Berry Juice	￼	Items pocket
+140	0x8C	Scope Lens	￼	Items pocket
+141	0x8D	Teru-sama	￼	Items pocket
+142	0x8E	Teru-sama	￼	Items pocket
+143	0x8F	Metal Coat	￼	Items pocket
+144	0x90	Dragon Fang	￼	Items pocket
+145	0x91	Teru-sama	￼	Items pocket
+146	0x92	Leftovers	￼	Items pocket
+147	0x93	Teru-sama	￼	Items pocket
+148	0x94	Teru-sama	￼	Items pocket
+149	0x95	Teru-sama	￼	Items pocket
+150	0x96	MysteryBerry	￼	Items pocket
+151	0x97	Dragon Scale	￼	Items pocket
+152	0x98	Berserk Gene	￼	Items pocket
+153	0x99	Teru-sama	￼	Items pocket
+154	0x9A	Teru-sama	￼	Items pocket
+155	0x9B	Teru-sama	￼	Items pocket
+156	0x9C	Sacred Ash	￼	Items pocket
+157	0x9D	Heavy Ball	￼	Poké Balls pocket
+158	0x9E	Flower Mail	￼	Items pocket
+159	0x9F	Level Ball	￼	Poké Balls pocket
+160	0xA0	Lure Ball	￼	Poké Balls pocket
+161	0xA1	Fast Ball	￼	Poké Balls pocket
+162	0xA2	Teru-sama	￼	Items pocket
+163	0xA3	Light Ball	￼	Items pocket
+164	0xA4	Friend Ball	￼	Poké Balls pocket
+165	0xA5	Moon Ball	￼	Poké Balls pocket
+166	0xA6	Love Ball	￼	Poké Balls pocket
+167	0xA7	Normal Box	￼	Items pocket
+168	0xA8	Gorgeous Box	￼	Items pocket
+169	0xA9	Sun Stone	￼	Items pocket
+170	0xAA	Polkadot Bow	￼	Items pocket
+171	0xAB	Teru-sama	￼	Items pocket
+172	0xAC	Up-Grade	￼	Items pocket
+173	0xAD	Berry	￼	Items pocket
+174	0xAE	Gold Berry	￼	Items pocket
+175	0xAF	SquirtBottle	￼	Key items pocket
+176	0xB0	Teru-sama	￼	Items pocket
+177	0xB1	Park Ball	￼	Poké Balls pocket
+178	0xB2	Rainbow Wing	￼	Key items pocket
+179	0xB3	Teru-sama	￼	Items pocket
+180	0xB4	Brick Piece	￼	Items pocket
+181	0xB5	Surf Mail	￼	Items pocket
+182	0xB6	Litebluemail	￼	Items pocket
+183	0xB7	Portraitmail	￼	Items pocket
+184	0xB8	Lovely Mail	￼	Items pocket
+185	0xB9	Eon Mail	￼	Items pocket
+186	0xBA	Morph Mail	￼	Items pocket
+187	0xBB	Bluesky Mail	￼	Items pocket
+188	0xBC	Music Mail	￼	Items pocket
+189	0xBD	Mirage Mail	￼	Items pocket
+190	0xBE	Teru-sama	￼	Items pocket
+191	0xBF	TM01	￼	TMs and HMs pocket
+192	0xC0	TM02	￼	TMs and HMs pocket
+193	0xC1	TM03	￼	TMs and HMs pocket
+194	0xC2	TM04	￼	TMs and HMs pocket
+195	0xC3	TM04	￼	Items pocket
+196	0xC4	TM05	￼	TMs and HMs pocket
+197	0xC5	TM06	￼	TMs and HMs pocket
+198	0xC6	TM07	￼	TMs and HMs pocket
+199	0xC7	TM08	￼	TMs and HMs pocket
+200	0xC8	TM09	￼	TMs and HMs pocket
+201	0xC9	TM10	￼	TMs and HMs pocket
+202	0xCA	TM11	￼	TMs and HMs pocket
+203	0xCB	TM12	￼	TMs and HMs pocket
+204	0xCC	TM13	￼	TMs and HMs pocket
+205	0xCD	TM14	￼	TMs and HMs pocket
+206	0xCE	TM15	￼	TMs and HMs pocket
+207	0xCF	TM16	￼	TMs and HMs pocket
+208	0xD0	TM17	￼	TMs and HMs pocket
+209	0xD1	TM18	￼	TMs and HMs pocket
+210	0xD2	TM19	￼	TMs and HMs pocket
+211	0xD3	TM20	￼	TMs and HMs pocket
+212	0xD4	TM21	￼	TMs and HMs pocket
+213	0xD5	TM22	￼	TMs and HMs pocket
+214	0xD6	TM23	￼	TMs and HMs pocket
+215	0xD7	TM24	￼	TMs and HMs pocket
+216	0xD8	TM25	￼	TMs and HMs pocket
+217	0xD9	TM26	￼	TMs and HMs pocket
+218	0xDA	TM27	￼	TMs and HMs pocket
+219	0xDB	TM28	￼	TMs and HMs pocket
+220	0xDC	TM28	￼	Items pocket
+221	0xDD	TM29	￼	TMs and HMs pocket
+222	0xDE	TM30	￼	TMs and HMs pocket
+223	0xDF	TM31	￼	TMs and HMs pocket
+224	0xE0	TM32	￼	TMs and HMs pocket
+225	0xE1	TM33	￼	TMs and HMs pocket
+226	0xE2	TM34	￼	TMs and HMs pocket
+227	0xE3	TM35	￼	TMs and HMs pocket
+228	0xE4	TM36	￼	TMs and HMs pocket
+229	0xE5	TM37	￼	TMs and HMs pocket
+230	0xE6	TM38	￼	TMs and HMs pocket
+231	0xE7	TM39	￼	TMs and HMs pocket
+232	0xE8	TM40	￼	TMs and HMs pocket
+233	0xE9	TM41	￼	TMs and HMs pocket
+234	0xEA	TM42	￼	TMs and HMs pocket
+235	0xEB	TM43	￼	TMs and HMs pocket
+236	0xEC	TM44	￼	TMs and HMs pocket
+237	0xED	TM45	￼	TMs and HMs pocket
+238	0xEE	TM46	￼	TMs and HMs pocket
+239	0xEF	TM47	￼	TMs and HMs pocket
+240	0xF0	TM48	￼	TMs and HMs pocket
+241	0xF1	TM49	￼	TMs and HMs pocket
+242	0xF2	TM50	￼	TMs and HMs pocket
+243	0xF3	HM01	￼	TMs and HMs pocket
+244	0xF4	HM02	￼	TMs and HMs pocket
+245	0xF5	HM03	￼	TMs and HMs pocket
+246	0xF6	HM04	￼	TMs and HMs pocket
+247	0xF7	HM05	￼	TMs and HMs pocket
+248	0xF8	HM06	￼	TMs and HMs pocket
+249	0xF9	HM07	￼	TMs and HMs pocket
+250	0xFA	HM08	￼	Items pocket
+251	0xFB	HM09	￼	Items pocket
+252	0xFC	HM10	￼	Items pocket
+253	0xFD	HM11	￼	Items pocket
+254	0xFE	HM12	￼	Items pocket
+255	0xFF	Cancel	￼	Unknown pocket

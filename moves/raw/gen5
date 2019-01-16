@@ -1,0 +1,92 @@
+Acid Spray	POISON	￼	40	100	20	Sharply lowers opponent's Special Defense.
+Acrobatics	FLYING	￼	55	100	15	Stronger when the user does not have a held item.
+After You	NORMAL	￼	—	—	15	Gives target priority in the next turn.
+Ally Switch	PSYCHIC	￼	—	—	15	User switches with opposite teammate.
+Autotomize	STEEL	￼	—	—	15	Reduces weight and sharply raises Speed.
+Bestow	NORMAL	￼	—	—	15	Gives the user's held item to the target.
+Blue Flare	FIRE	￼	130	85	5	May burn opponent.
+Bolt Strike	ELECTRIC	￼	130	85	5	May paralyze opponent.
+Bulldoze	GROUND	￼	60	100	20	Lowers opponent's Speed.
+Chip Away	NORMAL	￼	70	100	20	Ignores opponent's stat changes.
+Circle Throw	FIGHTING	￼	60	90	10	In battles, the opponent switches. In the wild, the Pokémon runs.
+Clear Smog	POISON	￼	50	—	15	Removes all of the target's stat changes.
+Coil	POISON	￼	—	—	20	Raises user's Attack, Defense and Accuracy.
+Cotton Guard	GRASS	￼	—	—	10	Drastically raises user's Defense.
+Dragon Tail	DRAGON	￼	60	90	10	In battles, the opponent switches. In the wild, the Pokémon runs.
+Drill Run	GROUND	￼	80	95	10	High critical hit ratio.
+Dual Chop	DRAGON	￼	40	90	15	Hits twice in one turn.
+Echoed Voice	NORMAL	￼	40	100	15	Power increases each turn.
+Electro Ball	ELECTRIC	￼	—	100	10	The faster the user, the stronger the attack.
+Electroweb	ELECTRIC	￼	55	95	15	Lowers opponent's Speed.
+Entrainment	NORMAL	￼	—	100	15	Makes target's ability same as user's.
+Fiery Dance	FIRE	￼	80	100	10	May raise user's Special Attack.
+Final Gambit	FIGHTING	￼	—	100	5	Inflicts damage equal to the user's remaining HP. User faints.
+Fire Pledge	FIRE	￼	80	100	10	Added effects appear if combined with Grass Pledge or Water Pledge.
+Flame Burst	FIRE	￼	70	100	15	May also injure nearby Pokémon.
+Flame Charge	FIRE	￼	50	100	20	Raises user's Speed.
+Foul Play	DARK	￼	95	100	15	Uses the opponent's Attack stat.
+Freeze Shock	ICE	￼	140	90	5	Charges on first turn, attacks on second. May paralyze opponent.
+Frost Breath	ICE	￼	60	90	10	Always results in a critical hit.
+Fusion Bolt	ELECTRIC	￼	100	100	5	Power increases if Fusion Flare is used in the same turn.
+Fusion Flare	FIRE	￼	100	100	5	Power increases if Fusion Bolt is used in the same turn.
+Gear Grind	STEEL	￼	50	85	15	Hits twice in one turn.
+Glaciate	ICE	￼	65	95	10	Lowers opponent's Speed.
+Grass Pledge	GRASS	￼	80	100	10	Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+Guard Split	PSYCHIC	￼	—	—	10	Averages Defense and Special Defense with the target.
+Head Charge	NORMAL	￼	120	100	15	User receives recoil damage.
+Heal Pulse	PSYCHIC	￼	—	—	10	Restores half the target's max HP.
+Heart Stamp	PSYCHIC	￼	60	100	25	May cause flinching.
+Heat Crash	FIRE	￼	—	100	10	The heavier the user, the stronger the attack.
+Heavy Slam	STEEL	￼	—	100	10	The heavier the user, the stronger the attack.
+Hex	GHOST	￼	65	100	10	Inflicts more damage if the target has a status condition.
+Hone Claws	DARK	￼	—	—	15	Raises user's Attack and Accuracy.
+Horn Leech	GRASS	￼	75	100	10	User recovers half the HP inflicted on opponent.
+Hurricane	FLYING	￼	110	70	10	May confuse opponent.
+Ice Burn	ICE	￼	140	90	5	Charges on first turn, attacks on second. May burn opponent.
+Icicle Crash	ICE	￼	85	90	10	May cause flinching.
+Incinerate	FIRE	￼	60	100	15	Destroys the target's held berry.
+Inferno	FIRE	￼	100	50	5	Burns opponent.
+Leaf Tornado	GRASS	￼	65	90	10	May lower opponent's Accuracy.
+Low Sweep	FIGHTING	￼	65	100	20	Lowers opponent's Speed.
+Magic Room	PSYCHIC	￼	—	—	10	Suppresses the effects of held items for five turns.
+Night Daze	DARK	￼	85	95	10	May lower opponent's Accuracy.
+Power Split	PSYCHIC	￼	—	—	10	Averages Attack and Special Attack with the target.
+Psyshock	PSYCHIC	￼	80	100	10	Inflicts damage based on the target's Defense, not Special Defense.
+Psystrike	PSYCHIC	￼	100	100	10	Inflicts damage based on the target's Defense, not Special Defense.
+Quash	DARK	￼	—	100	15	Makes the target act last this turn.
+Quick Guard	FIGHTING	￼	—	—	15	Protects the user's team from high-priority moves.
+Quiver Dance	BUG	￼	—	—	20	Raises user's Special Attack, Special Defense and Speed.
+Rage Powder	BUG	￼	—	—	20	Forces attacks to hit user, not team-mates.
+Razor Shell	WATER	￼	75	95	10	May lower opponent's Defense.
+Reflect Type	NORMAL	￼	—	—	15	User becomes the target's type.
+Relic Song	NORMAL	￼	75	100	10	May put the target to sleep.
+Retaliate	NORMAL	￼	70	100	5	Inflicts double damage if a teammate fainted on the last turn.
+Round	NORMAL	￼	60	100	15	Power increases if teammates use it in the same turn.
+Sacred Sword	FIGHTING	￼	90	100	20	Ignores opponent's stat changes.
+Scald	WATER	￼	80	100	15	May burn opponent.
+Searing Shot	FIRE	￼	100	100	5	May burn opponent.
+Secret Sword	FIGHTING	￼	85	100	10	Inflicts damage based on the target's Defense, not Special Defense.
+Shell Smash	NORMAL	￼	—	—	15	Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+Shift Gear	STEEL	￼	—	—	10	Raises user's Attack and sharply raises Speed.
+Simple Beam	NORMAL	￼	—	100	15	Changes target's ability to Simple.
+Sky Drop	FLYING	￼	60	100	10	Takes opponent into the air on first turn, drops them on second turn.
+Sludge Wave	POISON	￼	95	100	10	May poison opponent.
+Smack Down	ROCK	￼	50	100	15	Makes Flying-type Pokémon vulnerable to Ground moves.
+Snarl	DARK	￼	55	95	15	Lowers opponent's Special Attack.
+Soak	WATER	￼	—	100	20	Changes the target's type to water.
+Steamroller	BUG	￼	65	100	20	May cause flinching.
+Stored Power	PSYCHIC	￼	20	100	10	Power increases when user's stats have been raised.
+Storm Throw	FIGHTING	￼	60	100	10	Always results in a critical hit.
+Struggle Bug	BUG	￼	50	100	20	Lowers opponent's Special Attack.
+Synchronoise	PSYCHIC	￼	120	100	15	Hits any Pokémon that shares a type with the user.
+Tail Slap	NORMAL	￼	25	85	10	Hits 2-5 times in one turn.
+Techno Blast	NORMAL	￼	120	100	5	Type depends on the Drive being held.
+Telekinesis	PSYCHIC	￼	—	—	15	Ignores opponent's Evasiveness for three turns, add Ground immunity.
+V-create	FIRE	￼	180	95	5	Lowers user's Defense, Special Defense and Speed.
+Venoshock	POISON	￼	65	100	10	Inflicts double damage if the target is poisoned.
+Volt Switch	ELECTRIC	￼	70	100	20	User must switch out after attacking.
+Water Pledge	WATER	￼	80	100	10	Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+Wide Guard	ROCK	￼	—	—	10	Protects the user's team from multi-target attacks.
+Wild Charge	ELECTRIC	￼	90	100	15	User receives recoil damage.
+Wonder Room	PSYCHIC	￼	—	—	10	Swaps every Pokémon's Defense and Special Defense for 5 turns.
+Work Up	NORMAL	￼	—	—	30	Raises user's Attack and Special Attack.
