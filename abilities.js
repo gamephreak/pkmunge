@@ -20,7 +20,8 @@ const requiredKeys = {
 const optionalKeys = {
   desc: 1,
   shortDesc: 1,
-  isNonstandard: 1
+  isNonstandard: 1,
+  isUnreleased: 1
 };
 
 const result = {};

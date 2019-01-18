@@ -38,15 +38,20 @@ const optionalKeys = {
   desc: 1,
   shortDesc: 1,
   isNonstandard: 1,
+  isUnreleased: 1,
   isBerry: 1,
+  isGem: 1,
   megaStone: 1,
   megaEvolves: 1,
   zMove: 1,
   zMoveFrom: 1,
   zMoveType: 1,
-  zMoveUser: 1
+  zMoveUser: 1,
+  onPlate: 1,
+  onDrive: 1,
+  onMemory: 1
 };
-
+  
 //for (let name in currentDmg) {
   //if (!current[toID(name)]) {
     //console.error(name);
