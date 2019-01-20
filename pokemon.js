@@ -294,14 +294,12 @@ for (let id in current) {
   }
 }
 
-// TODO check result to ensure it equals dmgcalc!
-
 console.log(JSON.stringify(result, null, 2));
 
 function patchBaseStats(newBS, oldBS) {
   let patch = {};
   for (let k in newBS) {
-    if (!equal(newBS[k], oldBS[k])) {
+    if (newBS[k] && !equal(newBS[k], oldBS[k])) {
       patch[k] = newBS[k];
 
     }
