@@ -1,5 +1,5 @@
 const fs = require('fs');
-        
+
 const dmg = require('dmgcalc');
 const Dex = require('../Pokemon-Showdown/sim/dex');
 const toID = require('../Pokemon-Showdown/sim/dex-data').Tools.getId;
@@ -43,7 +43,7 @@ function toGen(mon) {
     return 4;
   } else if (num > 251) {
     return 3;
-  } else if (num > 151) { 
+  } else if (num > 151) {
     return 2;
   } else if (num > 0) {
     return 1;
@@ -143,7 +143,7 @@ const previous = gen === 1 ? {} : getMons(gen - 1, oldDex);
 const TIERS = ['Uber','OU','UUBL','UU','RUBL','RU','NUBL','NU','PUBL','PU','LC', 'NFE','Unreleased','Illegal','CAP','CAP NFE','CAP LC', 'LC Uber', 'AG'];
 
 
-function cleanup(val, id, dex) {
+function cleanup(val, id, dex, g) {
   if (val.speciesid !== id) {
     console.error(val);
     process.exit(16);
@@ -157,10 +157,13 @@ function cleanup(val, id, dex) {
   if (val.types.length > 1) {
     val.type2 = val.types[1];
   }
-  if (gen < 3) {
+  if (g < 2) {
+    delete val['gender'];
+  }
+  if (g < 3) {
     delete val['abilities'];
   }
-  if (val.prevo && toGen(dex.getTemplate(val.prevo)) > gen) {
+  if (val.prevo && toGen(dex.getTemplate(val.prevo)) > g) {
     delete val['prevo'];
   }
 
@@ -175,7 +178,7 @@ function cleanup(val, id, dex) {
   if (val.evos) {
     let evos = [];
     for (let evo of val.evos) {
-      if (toGen(dex.getTemplate(evo)) <= gen) {
+      if (toGen(dex.getTemplate(evo)) <= g) {
         evos.push(evo);
       }
     }
@@ -189,7 +192,7 @@ function cleanup(val, id, dex) {
   if (val.otherFormes) {
     let fs = [];
     for (let f of val.otherFormes) {
-      if (toGen(dex.getTemplate(f)) <= gen) {
+      if (toGen(dex.getTemplate(f)) <= g) {
         fs.push(f);
       }
     }
@@ -200,24 +203,23 @@ function cleanup(val, id, dex) {
     }
   }
 
-  if (val.cosmeticForms) {
-    let fs = [];
-    for (let f of val.cosmeticForms) {
-      if (toGen(dex.getTemplate(f)) <= gen) {
-        fs.push(f);
-      }
-    }
-    if (fs.length > 0) {
-      val.cosmeticForms = fs;
-    } else {
-      delete val['cosmetricForms'];
-    }
-  }
+  //if (val.cosmeticForms) {
+    //let fs = [];
+    //for (let f of val.cosmeticForms) {
+      //if (toGen(dex.getTemplate(f)) <= g) {
+        //fs.push(f);
+      //}
+    //}
+    //if (fs.length > 0) {
+      //val.cosmeticForms = fs;
+    //} else {
+      //delete val['cosmeticForms'];
+    //}
+  //}
 
 
   return val;
 }
-
 
 const result = {};
 for (let id in current) {
@@ -245,10 +247,10 @@ for (let id in current) {
   }
 
   // CLEANUP ------------------------
-  cleanup(old, id, oldDex);
-  cleanup(val, id, dex);
+  cleanup(old, id, oldDex, gen -1);
+  cleanup(val, id, dex, gen);
   // CLEANUP ------------------------
- 
+
 
   for (let k in val) {
     const required = requiredKeys[k];
