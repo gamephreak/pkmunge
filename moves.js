@@ -137,6 +137,9 @@ function cleanup(val, id, dex, dmgVal, g) {
     val.self.boosts = val.selfBoost.boosts;
   }
 
+  if (val.sideCondition) val.sideCondition = toID(val.sideCondition);
+  if (val.volatileStatus) val.volatileStatus = toID(val.volatileStatus);
+
   if (val.status) statuses[val.status] = 1;
   if (val.volatileStatus) volatiles[val.volatileStatus] = 1;
   if (val.sideCondition) sideConditions[val.sideCondition] = 1;
