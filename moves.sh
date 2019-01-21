@@ -2,7 +2,7 @@
 set -e
 
 #for gen in $(seq 1 7); do
-#    node moves.js $gen > "moves/$gen.json" #2> "moves/$gen.txt"
+    #node moves.js $gen > "moves/$gen.json" #2> "moves/$gen.txt"
 #done
 
 #exit 1

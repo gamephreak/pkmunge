@@ -43,8 +43,7 @@ const requiredKeys = {
   accuracy: 1,
   pp: 1,
   type: 1,
-  target: 1,
-  flags: 1
+  target: 1
 };
 
 const optionalKeys = {
@@ -52,6 +51,7 @@ const optionalKeys = {
   shortDesc: 1,
   isNonstandard: 1,
 
+  flags: 1,
   basePower: 1,
   priority: 1,
   category: 1,
@@ -71,6 +71,7 @@ const optionalKeys = {
   sideCondition: 1,
   volatileStatus: 1,
   boosts: 1,
+  self: 1,
 
   percentHealed: 1,
   recoil: 1
@@ -83,32 +84,32 @@ const sideConditions = {};
 function cleanup(val, id, dex, dmgVal, g) {
   if (val.flags) {
     if (gen < 7) {
-      val.flags.dance = undefined;
+      delete val.flags.dance;
     }
     if (gen < 6) {
-      val.flags.bite = undefined;
-      val.flags.bullet = undefined;
-      val.flags.nonsky = undefined;
-      val.flags.pulse = undefined;
+      delete val.flags.bite;
+      delete val.flags.bullet;
+      delete val.flags.nonsky;
+      delete val.flags.pulse;
     }
     if (gen < 5) {
-      val.flags.distance = undefined;
-      val.flags.powder = undefined;
+      delete val.flags.distance;
+      delete val.flags.powder;
     }
     if (gen < 4) {
-      val.flags.gravity = undefined;
-      //val.flags.heal = undefined;
-      val.flags.punch = undefined;
+      delete val.flags.gravity;
+      //val.flags.heal;
+      delete val.flags.punch;
     }
     if (gen < 3) {
-      val.flags.contact = undefined;
-      val.flags.reflectable = undefined;
-      val.flags.snatch = undefined;
-      val.flags.sound = undefined;
+      delete val.flags.contact;
+      delete val.flags.reflectable;
+      delete val.flags.snatch;
+      delete val.flags.sound;
     }
     if (gen < 2) {
-      val.flags.defrost = undefined;
-      val.flags.protect = undefined;
+      delete val.flags.defrost;
+      delete val.flags.protect;
     }
   }// else {
   //  val.flags = {};
@@ -136,48 +137,14 @@ function cleanup(val, id, dex, dmgVal, g) {
     val.self.boosts = val.selfBoost.boosts;
   }
 
-  if (val.self && val.self.chance) {
-    console.error(val.name, val.self);
-    process.exit(32);
-  }
-
-  if (val.self && val.self.volatileStatus === 'partialtrappinglock') {
-    delete val.self.volatileStatus;
-  }
-
-  if (Object.keys(val.self || {}).length && (val.boosts || val.sideCondition || val.volatileStatus)) {
-    console.error(val.name, val.self);
-    process.exit(72);
-  }
-
-
-  if (val.self && val.self.boosts) {
-    if (val.boosts) process.exit(90);
-    val.boosts = val.self.boosts;
-  }
-  if (val.self && val.self.sideCondition) {
-    if (val.sideCondition) process.exit(91);
-    val.sideCondition = val.self.sideCondition;
-  }
-  if (val.self && val.self.volatileStatus) {
-    if (val.volatileStatus) process.exit(92);
-    val.volatileStatus = val.self.volatileStatus;
-  }
-
-
   if (val.status) statuses[val.status] = 1;
   if (val.volatileStatus) volatiles[val.volatileStatus] = 1;
   if (val.sideCondition) sideConditions[val.sideCondition] = 1;
 
   cleanupSelf(val);
 
-  if (val.secondary === null) {
-    delete val.secondary;
-  }
-
-  if (val.secondaries === null) {
-    delete val.secondaries;
-  }
+  if (val.secondary === null) delete val.secondary;
+  if (val.secondaries === null) delete val.secondaries;
 
   if (val.secondary && (!val.secondaries || !equal([val.secondary], val.secondaries))) {
     console.error(val.name);
@@ -280,9 +247,11 @@ for (let id in current) {
         if (k === 'secondaries') {
           patch[k] = patchSecondaries(val[k], old[k]);
         } else if (k === 'flags') {
-          patch[k] = patchFoo(val[k], old[k]);
+          patch[k] = patchBoosts(val[k], old[k]); // yes, boosts
+        } else if (k === 'self') {
+          patch[k] = patchSelf(val[k], old[k]);
         } else if (k === 'boosts' || k === 'zMoveBoosts') {
-          patch[k] = patchFoo(val[k], old[k]);
+          patch[k] = patchBoosts(val[k], old[k]);
         } else {
           patch[k] = val[k];
         }
@@ -295,20 +264,20 @@ for (let id in current) {
   }
 }
 
-console.log(JSON.stringify(result, null, 2));
-
-//console.error([statuses, volatiles, sideConditions].map(Object.keys).map(sort));
-
-
-function patchFoo(newFoo, oldFoo) {
+function patchBoosts(n, o) {
   let patch = {};
-  for (let k in newFoo) {
-    if (!oldFoo) {
-      patch = newFoo;
-      break;
+  if (!o) {
+    return n;
+  }
+
+  for (let k in n) {
+    if (n[k] && !equal(n[k], o[k])) {
+      patch[k] = n[k];
     }
-    if (newFoo[k] && !equal(newFoo[k], oldFoo[k])) {
-      patch[k] = newFoo[k];
+  }
+  for (let k in o) {
+    if (o[k] && !equal(o[k], n[k])) {
+      patch[k] = 0; // erase boost!
     }
   }
   return patch;
@@ -321,7 +290,6 @@ function patchSecondaries(newSecondaries, oldSecondaries) {
 
   if (newSecondaries.length === 1 && oldSecondaries.length === 1) {
     if (!equal(newSecondaries[0], oldSecondaries[0])) {
-      // TODO confirm patching actually works on arrays...
       patch = [patchSecondary(newSecondaries[0], oldSecondaries[0])];
     } else {
       console.error(newSecondaries, oldSecondaries);
@@ -341,7 +309,7 @@ function patchSecondary(newSecondary, oldSecondary) {
       }
     if (newSecondary[k] && !equal(newSecondary[k], oldSecondary[k])) {
       if (k === 'boosts') {
-        patch[k] = patchFoo(newSecondary[k], oldSecondary[k]);
+        patch[k] = patchBoosts(newSecondary[k], oldSecondary[k]);
       } else if (k === 'self') {
         patch[k] = patchSelf(newSecondary[k], oldSecondary[k]);
       } else {
@@ -362,7 +330,7 @@ function patchSelf(newSelf, oldSelf) {
       }
     if (newSelf[k] && !equal(newSelf[k], oldSelf[k])) {
       if (k === 'boosts') {
-        patch[k] = patchFoo(newSelf[k], oldSelf[k]);
+        patch[k] = patchBoosts(newSelf[k], oldSelf[k]);
       } else {
         patch[k] = newSelf[k];
       }
@@ -370,3 +338,8 @@ function patchSelf(newSelf, oldSelf) {
   }
   return patch;
 }
+
+console.log(JSON.stringify(result, null, 2));
+
+//TODO console.error([statuses, volatiles, sideConditions].map(Object.keys).map(sort));
+
