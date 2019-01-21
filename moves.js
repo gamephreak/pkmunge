@@ -303,10 +303,10 @@ function patchSecondary(newSecondary, oldSecondary) {
   let patch = {};
   for (let k in newSecondary) {
 
-      if (!oldSecondary) {
-        patch = newSecondary;
-        break;
-      }
+    if (!oldSecondary) {
+      patch = newSecondary;
+      break;
+    }
     if (newSecondary[k] && !equal(newSecondary[k], oldSecondary[k])) {
       if (k === 'boosts') {
         patch[k] = patchBoosts(newSecondary[k], oldSecondary[k]);
@@ -324,10 +324,10 @@ function patchSelf(newSelf, oldSelf) {
   let patch = {};
   for (let k in newSelf) {
 
-      if (!oldSelf) {
-        patch = newSelf;
-        break;
-      }
+    if (!oldSelf) {
+      patch = newSelf;
+      break;
+    }
     if (newSelf[k] && !equal(newSelf[k], oldSelf[k])) {
       if (k === 'boosts') {
         patch[k] = patchBoosts(newSelf[k], oldSelf[k]);
@@ -341,5 +341,5 @@ function patchSelf(newSelf, oldSelf) {
 
 console.log(JSON.stringify(result, null, 2));
 
-//TODO console.error([statuses, volatiles, sideConditions].map(Object.keys).map(sort));
+//[statuses, volatiles, sideConditions].map(Object.keys).map((x) => console.error(JSON.stringify(x.sort(), null, 2)));
 

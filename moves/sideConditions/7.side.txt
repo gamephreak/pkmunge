@@ -1,0 +1,20 @@
+[
+  "Wish",
+  "auroraveil",
+  "craftyshield",
+  "healingwish",
+  "lightscreen",
+  "luckychant",
+  "lunardance",
+  "matblock",
+  "mist",
+  "quickguard",
+  "reflect",
+  "safeguard",
+  "spikes",
+  "stealthrock",
+  "stickyweb",
+  "tailwind",
+  "toxicspikes",
+  "wideguard"
+]

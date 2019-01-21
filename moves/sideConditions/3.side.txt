@@ -1,0 +1,8 @@
+[
+  "Wish",
+  "lightscreen",
+  "mist",
+  "reflect",
+  "safeguard",
+  "spikes"
+]

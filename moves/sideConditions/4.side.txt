@@ -1,0 +1,14 @@
+[
+  "Wish",
+  "healingwish",
+  "lightscreen",
+  "luckychant",
+  "lunardance",
+  "mist",
+  "reflect",
+  "safeguard",
+  "spikes",
+  "stealthrock",
+  "tailwind",
+  "toxicspikes"
+]

@@ -1,0 +1,19 @@
+[
+  "Substitute",
+  "bide",
+  "confusion",
+  "conversion",
+  "defensecurl",
+  "disable",
+  "flinch",
+  "focusenergy",
+  "leechseed",
+  "lightscreen",
+  "lockedmove",
+  "minimize",
+  "mustrecharge",
+  "partiallytrapped",
+  "partialtrappinglock",
+  "rage",
+  "reflect"
+]
