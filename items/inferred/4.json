@@ -1,0 +1,366 @@
+{
+  "rarebone": {
+    "group": null,
+    "type": "infer"
+  },
+  "shinystone": {
+    "group": null,
+    "type": "infer"
+  },
+  "duskstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "dawnstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "ovalstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "griseousorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "adamantorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "lustrousorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "occaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "passhoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "wacanberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "rindoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "yacheberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chopleberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "kebiaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "shucaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "cobaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "payapaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "tangaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chartiberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "kasibberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "habanberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "colburberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "babiriberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chilanberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "micleberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "custapberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "jabocaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "rowapberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "widelens": {
+    "group": null,
+    "type": "infer"
+  },
+  "muscleband": {
+    "group": null,
+    "type": "infer"
+  },
+  "wiseglasses": {
+    "group": null,
+    "type": "infer"
+  },
+  "expertbelt": {
+    "group": null,
+    "type": "infer"
+  },
+  "lightclay": {
+    "group": null,
+    "type": "infer"
+  },
+  "lifeorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerherb": {
+    "group": null,
+    "type": "infer"
+  },
+  "toxicorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "flameorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "quickpowder": {
+    "group": null,
+    "type": "infer"
+  },
+  "focussash": {
+    "group": null,
+    "type": "infer"
+  },
+  "zoomlens": {
+    "group": null,
+    "type": "infer"
+  },
+  "metronome": {
+    "group": null,
+    "type": "infer"
+  },
+  "ironball": {
+    "group": null,
+    "type": "infer"
+  },
+  "laggingtail": {
+    "group": null,
+    "type": "infer"
+  },
+  "destinyknot": {
+    "group": null,
+    "type": "infer"
+  },
+  "blacksludge": {
+    "group": null,
+    "type": "infer"
+  },
+  "icyrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "smoothrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "heatrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "damprock": {
+    "group": null,
+    "type": "infer"
+  },
+  "gripclaw": {
+    "group": null,
+    "type": "infer"
+  },
+  "choicescarf": {
+    "group": null,
+    "type": "infer"
+  },
+  "stickybarb": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerbracer": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerbelt": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerlens": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerband": {
+    "group": null,
+    "type": "infer"
+  },
+  "poweranklet": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerweight": {
+    "group": null,
+    "type": "infer"
+  },
+  "shedshell": {
+    "group": null,
+    "type": "infer"
+  },
+  "bigroot": {
+    "group": null,
+    "type": "infer"
+  },
+  "choicespecs": {
+    "group": null,
+    "type": "infer"
+  },
+  "flameplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "splashplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "zapplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "meadowplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "icicleplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "fistplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "toxicplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "earthplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "skyplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "mindplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "insectplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "stoneplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "spookyplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "dracoplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "dreadplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "ironplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "oddincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "rockincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "fullincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "waveincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "roseincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "protector": {
+    "group": null,
+    "type": "infer"
+  },
+  "electirizer": {
+    "group": null,
+    "type": "infer"
+  },
+  "magmarizer": {
+    "group": null,
+    "type": "infer"
+  },
+  "dubiousdisc": {
+    "group": null,
+    "type": "infer"
+  },
+  "reapercloth": {
+    "group": null,
+    "type": "infer"
+  },
+  "razorclaw": {
+    "group": null,
+    "type": "infer"
+  },
+  "razorfang": {
+    "group": null,
+    "type": "infer"
+  },
+  "sportball": {
+    "group": null,
+    "type": "infer"
+  }
+}

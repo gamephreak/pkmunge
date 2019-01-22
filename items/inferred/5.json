@@ -1,0 +1,1002 @@
+{
+  "masterball": {
+    "group": null,
+    "type": "infer"
+  },
+  "ultraball": {
+    "group": null,
+    "type": "infer"
+  },
+  "brightpowder": {
+    "group": null,
+    "type": "infer"
+  },
+  "greatball": {
+    "group": null,
+    "type": "infer"
+  },
+  "moonstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "firestone": {
+    "group": null,
+    "type": "infer"
+  },
+  "thunderstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "waterstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "luckypunch": {
+    "group": null,
+    "type": "infer"
+  },
+  "leafstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "metalpowder": {
+    "group": null,
+    "type": "infer"
+  },
+  "quickclaw": {
+    "group": null,
+    "type": "infer"
+  },
+  "softsand": {
+    "group": null,
+    "type": "infer"
+  },
+  "sharpbeak": {
+    "group": null,
+    "type": "infer"
+  },
+  "poisonbarb": {
+    "group": null,
+    "type": "infer"
+  },
+  "kingsrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "silverpowder": {
+    "group": null,
+    "type": "infer"
+  },
+  "mysticwater": {
+    "group": null,
+    "type": "infer"
+  },
+  "twistedspoon": {
+    "group": null,
+    "type": "infer"
+  },
+  "blackbelt": {
+    "group": null,
+    "type": "infer"
+  },
+  "blackglasses": {
+    "group": null,
+    "type": "infer"
+  },
+  "stick": {
+    "group": null,
+    "type": "infer"
+  },
+  "nevermeltice": {
+    "group": null,
+    "type": "infer"
+  },
+  "magnet": {
+    "group": null,
+    "type": "infer"
+  },
+  "spelltag": {
+    "group": null,
+    "type": "infer"
+  },
+  "miracleseed": {
+    "group": null,
+    "type": "infer"
+  },
+  "thickclub": {
+    "group": null,
+    "type": "infer"
+  },
+  "focusband": {
+    "group": null,
+    "type": "infer"
+  },
+  "energypowder": {
+    "group": null,
+    "type": "infer"
+  },
+  "hardstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "charcoal": {
+    "group": null,
+    "type": "infer"
+  },
+  "berryjuice": {
+    "group": null,
+    "type": "infer"
+  },
+  "scopelens": {
+    "group": null,
+    "type": "infer"
+  },
+  "metalcoat": {
+    "group": null,
+    "type": "infer"
+  },
+  "dragonfang": {
+    "group": null,
+    "type": "infer"
+  },
+  "leftovers": {
+    "group": null,
+    "type": "infer"
+  },
+  "dragonscale": {
+    "group": null,
+    "type": "infer"
+  },
+  "berserkgene": {
+    "group": null,
+    "type": "infer"
+  },
+  "heavyball": {
+    "group": null,
+    "type": "infer"
+  },
+  "levelball": {
+    "group": null,
+    "type": "infer"
+  },
+  "lureball": {
+    "group": null,
+    "type": "infer"
+  },
+  "fastball": {
+    "group": null,
+    "type": "infer"
+  },
+  "lightball": {
+    "group": null,
+    "type": "infer"
+  },
+  "friendball": {
+    "group": null,
+    "type": "infer"
+  },
+  "moonball": {
+    "group": null,
+    "type": "infer"
+  },
+  "loveball": {
+    "group": null,
+    "type": "infer"
+  },
+  "sunstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "upgrade": {
+    "group": null,
+    "type": "infer"
+  },
+  "parkball": {
+    "group": null,
+    "type": "infer"
+  },
+  "safariball": {
+    "group": null,
+    "type": "infer"
+  },
+  "netball": {
+    "group": null,
+    "type": "infer"
+  },
+  "diveball": {
+    "group": null,
+    "type": "infer"
+  },
+  "nestball": {
+    "group": null,
+    "type": "infer"
+  },
+  "repeatball": {
+    "group": null,
+    "type": "infer"
+  },
+  "timerball": {
+    "group": null,
+    "type": "infer"
+  },
+  "luxuryball": {
+    "group": null,
+    "type": "infer"
+  },
+  "premierball": {
+    "group": null,
+    "type": "infer"
+  },
+  "cheriberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chestoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "pechaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "rawstberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "aspearberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "leppaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "oranberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "persimberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "lumberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "sitrusberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "figyberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "wikiberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "magoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "aguavberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "iapapaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "razzberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "blukberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "nanabberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "wepearberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "pinapberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "pomegberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "kelpsyberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "qualotberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "hondewberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "grepaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "tamatoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "cornnberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "magostberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "rabutaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "nomelberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "spelonberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "pamtreberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "watmelberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "durinberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "belueberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "liechiberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "ganlonberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "salacberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "petayaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "apicotberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "lansatberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "starfberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "enigmaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "whiteherb": {
+    "group": null,
+    "type": "infer"
+  },
+  "machobrace": {
+    "group": null,
+    "type": "infer"
+  },
+  "mentalherb": {
+    "group": null,
+    "type": "infer"
+  },
+  "choiceband": {
+    "group": null,
+    "type": "infer"
+  },
+  "souldew": {
+    "group": null,
+    "type": "infer"
+  },
+  "deepseatooth": {
+    "group": null,
+    "type": "infer"
+  },
+  "deepseascale": {
+    "group": null,
+    "type": "infer"
+  },
+  "silkscarf": {
+    "group": null,
+    "type": "infer"
+  },
+  "shellbell": {
+    "group": null,
+    "type": "infer"
+  },
+  "seaincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "laxincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "redorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "blueorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "rootfossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "clawfossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "oldamber": {
+    "group": null,
+    "type": "infer"
+  },
+  "helixfossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "domefossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "duskball": {
+    "group": null,
+    "type": "infer"
+  },
+  "healball": {
+    "group": null,
+    "type": "infer"
+  },
+  "quickball": {
+    "group": null,
+    "type": "infer"
+  },
+  "cherishball": {
+    "group": null,
+    "type": "infer"
+  },
+  "armorfossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "skullfossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "rarebone": {
+    "group": null,
+    "type": "infer"
+  },
+  "shinystone": {
+    "group": null,
+    "type": "infer"
+  },
+  "duskstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "dawnstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "ovalstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "griseousorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "adamantorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "lustrousorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "occaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "passhoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "wacanberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "rindoberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "yacheberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chopleberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "kebiaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "shucaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "cobaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "payapaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "tangaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chartiberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "kasibberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "habanberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "colburberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "babiriberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "chilanberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "micleberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "custapberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "jabocaberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "rowapberry": {
+    "group": null,
+    "type": "infer"
+  },
+  "widelens": {
+    "group": null,
+    "type": "infer"
+  },
+  "muscleband": {
+    "group": null,
+    "type": "infer"
+  },
+  "wiseglasses": {
+    "group": null,
+    "type": "infer"
+  },
+  "expertbelt": {
+    "group": null,
+    "type": "infer"
+  },
+  "lightclay": {
+    "group": null,
+    "type": "infer"
+  },
+  "lifeorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerherb": {
+    "group": null,
+    "type": "infer"
+  },
+  "toxicorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "flameorb": {
+    "group": null,
+    "type": "infer"
+  },
+  "quickpowder": {
+    "group": null,
+    "type": "infer"
+  },
+  "focussash": {
+    "group": null,
+    "type": "infer"
+  },
+  "zoomlens": {
+    "group": null,
+    "type": "infer"
+  },
+  "metronome": {
+    "group": null,
+    "type": "infer"
+  },
+  "ironball": {
+    "group": null,
+    "type": "infer"
+  },
+  "laggingtail": {
+    "group": null,
+    "type": "infer"
+  },
+  "destinyknot": {
+    "group": null,
+    "type": "infer"
+  },
+  "blacksludge": {
+    "group": null,
+    "type": "infer"
+  },
+  "icyrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "smoothrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "heatrock": {
+    "group": null,
+    "type": "infer"
+  },
+  "damprock": {
+    "group": null,
+    "type": "infer"
+  },
+  "gripclaw": {
+    "group": null,
+    "type": "infer"
+  },
+  "choicescarf": {
+    "group": null,
+    "type": "infer"
+  },
+  "stickybarb": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerbracer": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerbelt": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerlens": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerband": {
+    "group": null,
+    "type": "infer"
+  },
+  "poweranklet": {
+    "group": null,
+    "type": "infer"
+  },
+  "powerweight": {
+    "group": null,
+    "type": "infer"
+  },
+  "shedshell": {
+    "group": null,
+    "type": "infer"
+  },
+  "bigroot": {
+    "group": null,
+    "type": "infer"
+  },
+  "choicespecs": {
+    "group": null,
+    "type": "infer"
+  },
+  "flameplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "splashplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "zapplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "meadowplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "icicleplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "fistplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "toxicplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "earthplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "skyplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "mindplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "insectplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "stoneplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "spookyplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "dracoplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "dreadplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "ironplate": {
+    "group": null,
+    "type": "infer"
+  },
+  "oddincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "rockincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "fullincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "waveincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "roseincense": {
+    "group": null,
+    "type": "infer"
+  },
+  "protector": {
+    "group": null,
+    "type": "infer"
+  },
+  "electirizer": {
+    "group": null,
+    "type": "infer"
+  },
+  "magmarizer": {
+    "group": null,
+    "type": "infer"
+  },
+  "dubiousdisc": {
+    "group": null,
+    "type": "infer"
+  },
+  "reapercloth": {
+    "group": null,
+    "type": "infer"
+  },
+  "razorclaw": {
+    "group": null,
+    "type": "infer"
+  },
+  "razorfang": {
+    "group": null,
+    "type": "infer"
+  },
+  "sportball": {
+    "group": null,
+    "type": "infer"
+  },
+  "dousedrive": {
+    "group": null,
+    "type": "infer"
+  },
+  "shockdrive": {
+    "group": null,
+    "type": "infer"
+  },
+  "burndrive": {
+    "group": null,
+    "type": "infer"
+  },
+  "chilldrive": {
+    "group": null,
+    "type": "infer"
+  },
+  "prismscale": {
+    "group": null,
+    "type": "infer"
+  },
+  "eviolite": {
+    "group": null,
+    "type": "infer"
+  },
+  "floatstone": {
+    "group": null,
+    "type": "infer"
+  },
+  "rockyhelmet": {
+    "group": null,
+    "type": "infer"
+  },
+  "airballoon": {
+    "group": null,
+    "type": "infer"
+  },
+  "redcard": {
+    "group": null,
+    "type": "infer"
+  },
+  "ringtarget": {
+    "group": null,
+    "type": "infer"
+  },
+  "bindingband": {
+    "group": null,
+    "type": "infer"
+  },
+  "absorbbulb": {
+    "group": null,
+    "type": "infer"
+  },
+  "cellbattery": {
+    "group": null,
+    "type": "infer"
+  },
+  "ejectbutton": {
+    "group": null,
+    "type": "infer"
+  },
+  "firegem": {
+    "group": null,
+    "type": "infer"
+  },
+  "watergem": {
+    "group": null,
+    "type": "infer"
+  },
+  "electricgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "grassgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "icegem": {
+    "group": null,
+    "type": "infer"
+  },
+  "fightinggem": {
+    "group": null,
+    "type": "infer"
+  },
+  "poisongem": {
+    "group": null,
+    "type": "infer"
+  },
+  "groundgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "flyinggem": {
+    "group": null,
+    "type": "infer"
+  },
+  "psychicgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "buggem": {
+    "group": null,
+    "type": "infer"
+  },
+  "rockgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "ghostgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "dragongem": {
+    "group": null,
+    "type": "infer"
+  },
+  "darkgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "steelgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "normalgem": {
+    "group": null,
+    "type": "infer"
+  },
+  "coverfossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "plumefossil": {
+    "group": null,
+    "type": "infer"
+  },
+  "dreamball": {
+    "group": null,
+    "type": "infer"
+  }
+}

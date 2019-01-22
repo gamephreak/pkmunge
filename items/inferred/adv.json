@@ -1,0 +1,230 @@
+{
+  "cheriberry": {
+    "group": "statusberry",
+    "status": "par",
+    "type": "observe"
+  },
+  "chestoberry": {
+    "group": "statusberry",
+    "status": "slp",
+    "type": "observe"
+  },
+  "pechaberry": {
+    "group": "statusberry",
+    "status": "psn",
+    "type": "observe"
+  },
+  "rawstberry": {
+    "group": "statusberry",
+    "status": "brn",
+    "type": "observe"
+  },
+  "aspearberry": {
+    "group": "statusberry",
+    "status": "frz",
+    "type": "observe"
+  },
+  "leppaberry": {
+    "type": "observe"
+  },
+  "oranberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "persimberry": {
+    "group": "statusberry",
+    "status": "confusion",
+    "type": "observe"
+  },
+  "lumberry": {
+    "group": "statusberry",
+    "type": "observe"
+  },
+  "sitrusberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "figyberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "wikiberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "magoberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "aguavberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "iapapaberry": {
+    "group": "halfberry",
+    "type": "observe"
+  },
+  "razzberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "blukberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "nanabberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "wepearberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "pinapberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "pomegberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "kelpsyberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "qualotberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "hondewberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "grepaberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "tamatoberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "cornnberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "magostberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "rabutaberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "nomelberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "spelonberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "pamtreberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "watmelberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "durinberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "belueberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "liechiberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "ganlonberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "salacberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "petayaberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "apicotberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "lansatberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "starfberry": {
+    "group": "pinchberry",
+    "type": "observe"
+  },
+  "enigmaberry": {
+    "group": "n/aberry",
+    "type": "observe"
+  },
+  "whiteherb": {
+    "type": "observe"
+  },
+  "machobrace": {
+    "group": "speed",
+    "type": "infer"
+  },
+  "mentalherb": {
+    "status": "infatuation",
+    "type": "observe"
+  },
+  "choiceband": {
+    "group": "choice",
+    "type": "infer"
+  },
+  "souldew": {
+    "pokemon": ["Latias", "Latios"],
+    "type": "infer"
+  },
+  "deepseatooth": {
+    "pokemon": ["Clamperl"],
+    "type": "infer"
+  },
+  "deepseascale": {
+    "pokemon": ["Clamperl"],
+    "type": "infer"
+  },
+  "dragonscale": {
+    "group": "n/a"
+  },
+  "dragonfang": {
+    "group": "typeboost1.1",
+    "type": "Dragon",
+    "method": "infer"
+  },
+  "silkscarf": {
+    "group": "typeboost1.1",
+    "type": "Normal",
+    "method": "infer"
+  },
+  "shellbell": {
+    "type": "observe"
+  },
+  "seaincense": {
+    "group": "typeboost1.05",
+    "type": "Water",
+    "type": "infer"
+  },
+  "laxincense": {
+    "type": "infer"
+  }
+}

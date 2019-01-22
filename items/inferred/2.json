@@ -1,0 +1,178 @@
+{
+  "brightpowder": {
+    "method": "infer"
+  },
+  "luckypunch": {
+    "method": "probabilistic",
+    "pokemon": ["Chansey"]
+  },
+  "metalpowder": {
+    "method": "infer",
+    "pokemon": ["Ditto"]
+  },
+  "quickclaw": {
+    "method": "probserve"
+  },
+  "psncureberry": {
+    "group": "statusberry",
+    "status": "psn",
+    "method": "observe"
+  },
+  "softsand": {
+    "group": "typeboost1.1",
+    "type": "Ground",
+    "method": "infer"
+  },
+  "sharpbeak": {
+    "group": "typeboost1.1",
+    "type": "Flying",
+    "method": "infer"
+  },
+  "przcureberry": {
+    "group": "statusberry",
+    "status": "prz",
+    "method": "observe"
+  },
+  "burntberry": {
+    "group": "statusberry",
+    "status": "frz",
+    "method": "observe"
+  },
+  "iceberry": {
+    "group": "statusberry",
+    "status": "brn",
+    "method": "observe"
+  },
+  "poisonbarb": {
+    "group": "typeboost1.1",
+    "type": "Poison",
+    "method": "infer"
+  },
+  "kingsrock": {
+    "method": "infer"
+  },
+  "bitterberry": {
+    "group": "statusberry",
+    "status": "confusion",
+    "method": "observe"
+  },
+  "mintberry": {
+    "group": "statusberry",
+    "status": "slp",
+    "method": "observe"
+  },
+  "silverpowder": {
+    "group": "typeboost1.1",
+    "type": "Bug",
+    "method": "infer"
+  },
+  "mysticwater": {
+    "group": "typeboost1.1",
+    "type": "Water",
+    "method": "infer"
+  },
+  "twistedspoon": {
+    "group": "typeboost1.1",
+    "type": "Psychic",
+    "method": "infer"
+  },
+  "blackbelt": {
+    "group": "typeboost1.1",
+    "type": "Fighting",
+    "method": "infer"
+  },
+  "blackglasses": {
+    "group": "typeboost1.1",
+    "type": "Dark",
+    "method": "infer"
+  },
+  "pinkbow": {
+    "group": "typeboost1.1",
+    "type": "Normal",
+    "method": "infer"
+  },
+  "stick": {
+    "method": "probabilistic",
+    "pokemon": ["Farfetch'd"]
+  },
+  "nevermeltice": {
+    "group": "typeboost1.1",
+    "type": "Ice",
+    "method": "infer"
+  },
+  "magnet": {
+    "group": "typeboost1.1",
+    "type": "Electric",
+    "method": "infer"
+  },
+  "miracleberry": {
+    "group": "statusberry",
+    "method": "observe"
+  },
+  "spelltag": {
+    "group": "typeboost1.1",
+    "type": "Ghost",
+    "method": "infer"
+  },
+  "miracleseed": {
+    "group": "typeboost1.1",
+    "type": "Grass",
+    "method": "infer"
+  },
+  "thickclub": {
+    "pokemon": ["Cuebone", "Marowak"],
+    "method": "infer"
+  },
+  "focusband": {
+    "method": "probserve"
+  },
+  "hardstone": {
+    "group": "typeboost1.1",
+    "type": "Rock",
+    "method": "infer"
+  },
+  "charcoal": {
+    "group": "typeboost1.1",
+    "type": "Fire",
+    "method": "infer"
+  },
+  "berryjuice": {
+    "group": "halfberry",
+    "method": "infer"
+  },
+  "scopelens": {
+    "method": "probabilistic"
+  },
+  "metalcoat": {
+    "group": "typeboost1.1",
+    "type": "Steel",
+    "method": "infer"
+  },
+  "leftovers": {
+    "method": "observe"
+  },
+  "mysteryberry": {
+    "method": "observe"
+  },
+  "dragonscale": {
+    "group": "typeboost1.1",
+    "type": "Dragon",
+    "method": "infer"
+  },
+  "berserkgene": {
+    "method": "observe"
+  },
+  "polkadotbow": {
+    "group": "typeboost1.1",
+    "type": "Normal",
+    "method": "infer"
+  },
+  "berry": {
+    "group": "halfberry",
+    "method": "observe"
+  },
+  "goldberry": {
+    "group": "halfberry",
+    "method": "observe"
+  }
+}
