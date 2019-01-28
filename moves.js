@@ -11,8 +11,6 @@ function readMoves(g) {
   const result = {};
   if (!g) return result;
 
-  // TODO remove deleted moves
-
   for (let i = 1; i <= g; i++) {
     for (let s of fs.readFileSync('moves/clean/gen' + i).toString().split('\n')) {
       let id = toID(s);
@@ -121,15 +119,18 @@ function cleanup(val, id, dex, dmgVal, g) {
   if (g < 4) {
     val.category = val.category === 'Status' ? 'Status' : undefined;
   }
-  val.zMoveBoosts = val.zMoveBoosts;
+  val.zMoveBoosts = val.zMoveBoost;
   if (g < 7) {
     val.zMovePower = undefined;
     val.isZ = undefined;
     val.zMoveBoosts = undefined;
   }
   if (dmgVal) {
-    val.percentHealed = dmgVal.percentHealed;
+    val.percentHealed = dmgVal.percentHealed * 100;
     val.recoil = dmgVal.hasRecoil;
+  }
+  if (val.heal) {
+    val.percentHealed = (val.heal[0] / val.heal[1]) * 100;
   }
 
   if (val.selfBoost) {
@@ -180,6 +181,8 @@ function cleanupSecondary(s) {
 
     s.onAfterHit = undefined;
     s.onHit = undefined;
+    s.dustproof = undefined;
+    s.kingsrock = undefined;
 
     cleanupSelf(s);
   }
@@ -188,6 +191,7 @@ function cleanupSecondary(s) {
 function cleanupSelf(v) {
   if (v.self) {
     v.self.onHit = undefined;
+    v.self.chance = undefined;
 
     if (v.self.sideCondition) sideConditions[v.self.sideCondition] = 1;
     if (v.self.volatileStatus) volatiles[v.self.volatileStatus] = 1;

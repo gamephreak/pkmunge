@@ -7,13 +7,13 @@ set -e
 
 #exit 1
 
-node moves.js 1 > "../pkmn/data/rby/moves.json"
-node moves.js 2 > "../pkmn/data/gsc/moves.json"
-node moves.js 3 > "../pkmn/data/adv/moves.json"
-node moves.js 4 > "../pkmn/data/dpp/moves.json"
-node moves.js 5 > "../pkmn/data/bw/moves.json"
-node moves.js 6 > "../pkmn/data/xy/moves.json"
-node moves.js 7 > "../pkmn/data/sm/moves.json"
+node moves.js 1 > "../pkmn/src/data/rby/moves.json"
+node moves.js 2 > "../pkmn/src/data/gsc/moves.json"
+node moves.js 3 > "../pkmn/src/data/adv/moves.json"
+node moves.js 4 > "../pkmn/src/data/dpp/moves.json"
+node moves.js 5 > "../pkmn/src/data/bw/moves.json"
+node moves.js 6 > "../pkmn/src/data/xy/moves.json"
+node moves.js 7 > "../pkmn/src/data/sm/moves.json"
 
 exit 1
 
