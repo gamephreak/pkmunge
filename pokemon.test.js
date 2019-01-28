@@ -63,28 +63,26 @@ function checkPsim(p, id) {
 
 // MAIN
 
-(async () => {
-  const species = await pkmn.Species.forGen(gen);
-  for (let id in species) {
-    let p = species[id];
-    checkDmg(p, id);
-    checkPsim(p, id);
-  }
+const species = pkmn.Species.forGen(gen);
+for (let id in species) {
+  let p = species[id];
+  checkDmg(p, id);
+  checkPsim(p, id);
+}
 
-  for (let id in psim.data.Pokedex) {
-    let s = psim.getTemplate(id);
-    if (s.gen > gen || s.isNonstandard) continue;
+for (let id in psim.data.Pokedex) {
+  let s = psim.getTemplate(id);
+  if (s.gen > gen || s.isNonstandard) continue;
 
-    let p = species[id];
-    if (!p) {
-      console.log(`PKMN MISSING ${id} (PSIM)`);
-    }
+  let p = species[id];
+  if (!p) {
+    console.log(`PKMN MISSING ${id} (PSIM)`);
   }
+}
 
-  for (let id in dmg) {
-    let p = species[id];
-    if (!p) {
-      console.log(`PKMN MISSING ${id} (DMG)`);
-    }
+for (let id in dmg) {
+  let p = species[id];
+  if (!p) {
+    console.log(`PKMN MISSING ${id} (DMG)`);
   }
-})();
+}

@@ -71,28 +71,26 @@ function checkPsim(p, id) {
 
 // MAIN
 
-(async () => {
-  const moves = await pkmn.Moves.forGen(gen);
-  for (let id in moves) {
-    let p = moves[id];
-    checkDmg(p, id);
-    checkPsim(p, id);
-  }
+const moves = pkmn.Moves.forGen(gen);
+for (let id in moves) {
+  let p = moves[id];
+  checkDmg(p, id);
+  checkPsim(p, id);
+}
 
-  for (let id in psim.data.Movedex) {
-    let s = psim.getTemplate(id);
-    if (!s.gen || s.gen > gen || s.isNonstandard) continue;
+for (let id in psim.data.Movedex) {
+  let s = psim.getTemplate(id);
+  if (!s.gen || s.gen > gen || s.isNonstandard) continue;
 
-    let p = moves[id];
-    if (!p) {
-      console.log(`|PKMN MISSING ${id} (PSIM)`);
-    }
+  let p = moves[id];
+  if (!p) {
+    console.log(`|PKMN MISSING ${id} (PSIM)`);
   }
+}
 
-  for (let id in dmg) {
-    let p = moves[id];
-    if (!p) {
-      console.log(`|PKMN MISSING ${id} (DMG)`);
-    }
+for (let id in dmg) {
+  let p = moves[id];
+  if (!p) {
+    console.log(`|PKMN MISSING ${id} (DMG)`);
   }
-})();
+}
