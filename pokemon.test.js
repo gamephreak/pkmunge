@@ -39,7 +39,7 @@ function sequal(p, s) {
 function checkPsim(p, id) {
   let s = psim.getTemplate(id);;
   if (!s) {
-    console.log(`${id} PSIM MISSING`);
+    console.log(`PSIM MISSING ${id}`);
   }
 
   if (!equal(p.id, s.speciesid)) console.log(`PSIM ID ${id}: pkmn: '${p.id}', psim: '${s.speciesid}'`);
@@ -77,7 +77,14 @@ function checkPsim(p, id) {
 
     let p = species[id];
     if (!p) {
-      console.log(`${id} PKMN MISSING`);
+      console.log(`PKMN MISSING ${id} (PSIM)`);
+    }
+  }
+
+  for (let id in dmg) {
+    let p = species[id];
+    if (!p) {
+      console.log(`PKMN MISSING ${id} (DMG)`);
     }
   }
 })();

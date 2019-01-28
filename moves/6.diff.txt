@@ -1,0 +1,365 @@
+DMG ALWAYSCRIT crabhammer: pkmn: 'undefined', dmg: 'false'
+DMG ALWAYSCRIT razorleaf: pkmn: 'undefined', dmg: 'false'
+DMG ALWAYSCRIT slash: pkmn: 'undefined', dmg: 'false'
+DMG CATEGORY bind: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY clamp: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY dig: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY naturepower: pkmn: 'Status', dmg: 'Special'
+DMG CATEGORY slash: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY submission: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY superfang: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY twineedle: pkmn: 'Physical', dmg: 'undefined'
+DMG CATEGORY wrap: pkmn: 'Physical', dmg: 'undefined'
+DMG GIVESHEALTH healingwish: pkmn: '{"heal":1,"snatch":1}', dmg: 'undefined'
+DMG GIVESHEALTH healorder: pkmn: '{"snatch":1,"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH healpulse: pkmn: '{"protect":1,"reflectable":1,"distance":1,"heal":1,"mystery":1}', dmg: 'undefined'
+DMG GIVESHEALTH lunardance: pkmn: '{"heal":1,"snatch":1}', dmg: 'undefined'
+DMG GIVESHEALTH milkdrink: pkmn: '{"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH moonlight: pkmn: '{"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH recover: pkmn: '{"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH rest: pkmn: '{"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH roost: pkmn: '{"snatch":1,"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH slackoff: pkmn: '{"snatch":1,"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH softboiled: pkmn: '{"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH synthesis: pkmn: '{"heal":1}', dmg: 'undefined'
+DMG GIVESHEALTH wish: pkmn: '{"heal":1,"snatch":1}', dmg: 'undefined'
+DMG HASPRIORITY aquajet: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY bulletpunch: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY extremespeed: pkmn: '2', dmg: 'true'
+DMG HASPRIORITY fakeout: pkmn: '3', dmg: 'true'
+DMG HASPRIORITY iceshard: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY machpunch: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY quickattack: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY shadowsneak: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY suckerpunch: pkmn: '1', dmg: 'true'
+DMG HASPRIORITY vacuumwave: pkmn: '1', dmg: 'true'
+DMG HASSECONDARY bubblebeam: pkmn: '[{"chance":10,"boosts":{"spe":-1}}]', dmg: 'undefined'
+DMG HASSECONDARY lowkick: pkmn: '[{"chance":30,"volatileStatus":"flinch"}]', dmg: 'undefined'
+DMG HASSECONDARY naturepower: pkmn: 'undefined', dmg: 'true'
+DMG HASSECONDARY sludge: pkmn: '[{"chance":30,"status":"psn"}]', dmg: 'undefined'
+DMG HASSECONDARY strugglebug: pkmn: '[{"chance":100,"boosts":{"spa":-1}}]', dmg: 'undefined'
+DMG HASSECONDARY thief: pkmn: '[{"chance":100}]', dmg: 'undefined'
+DMG HASSECONDARY twineedle: pkmn: '[{"chance":20,"status":"psn"}]', dmg: 'undefined'
+DMG ISBULLET acidspray: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET aurasphere: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET bulletseed: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET electroball: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET energyball: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET focusblast: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET gyroball: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET magnetbomb: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET mistball: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET mudbomb: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET rockwrecker: pkmn: '{"recharge":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET searingshot: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET seedbomb: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET shadowball: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET sludgebomb: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET weatherball: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBULLET zapcannon: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBUTE bite: pkmn: '{"mirror":1}', dmg: 'true'
+DMG ISBUTE crunch: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBUTE firefang: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBUTE hyperfang: pkmn: '{"mirror":1}', dmg: 'true'
+DMG ISBUTE icefang: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBUTE poisonfang: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISBUTE thunderfang: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISMULTIHIT bonemerang: pkmn: '2', dmg: 'undefined'
+DMG ISMULTIHIT doublehit: pkmn: '2', dmg: 'undefined'
+DMG ISMULTIHIT doublekick: pkmn: '2', dmg: 'undefined'
+DMG ISMULTIHIT dualchop: pkmn: '2', dmg: 'undefined'
+DMG ISMULTIHIT geargrind: pkmn: '2', dmg: 'undefined'
+DMG ISMULTIHIT twineedle: pkmn: '2', dmg: 'undefined'
+DMG ISPULSE aurasphere: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPULSE darkpulse: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPULSE dragonpulse: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPULSE waterpulse: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPUNCH dynamicpunch: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPUNCH firepunch: pkmn: '{"mirror":1}', dmg: 'true'
+DMG ISPUNCH focuspunch: pkmn: '{"contact":1,"protect":1}', dmg: 'true'
+DMG ISPUNCH icepunch: pkmn: '{"mirror":1}', dmg: 'true'
+DMG ISPUNCH machpunch: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPUNCH meteormash: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPUNCH shadowpunch: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPUNCH skyuppercut: pkmn: '{"contact":1,"protect":1,"mirror":1}', dmg: 'true'
+DMG ISPUNCH thunderpunch: pkmn: '{"mirror":1}', dmg: 'true'
+DMG ISSOUND round: pkmn: '{"protect":1,"mirror":1,"sound":1,"authentic":1}', dmg: 'undefined'
+DMG ISSOUND uproar: pkmn: '{"protect":1,"mirror":1,"sound":1,"authentic":1}', dmg: 'undefined'
+DMG MAKESCONTACT bite: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT bodyslam: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT crabhammer: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT crosschop: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT crunch: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT dig: pkmn: '{"charge":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT doubleedge: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT doublekick: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT drillpeck: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT dynamicpunch: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT extremespeed: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT firepunch: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT flail: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT flamewheel: pkmn: '{"protect":1,"mirror":1,"defrost":1}', dmg: 'true'
+DMG MAKESCONTACT fly: pkmn: '{"charge":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT frustration: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT furyswipes: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT headbutt: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT highjumpkick: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT hyperfang: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT icepunch: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT irontail: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT jumpkick: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT leechlife: pkmn: '{"mirror":1,"heal":1}', dmg: 'true'
+DMG MAKESCONTACT lowkick: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT machpunch: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT megahorn: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT metalclaw: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT outrage: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT petaldance: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT pursuit: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT quickattack: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT rapidspin: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT return: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT reversal: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT rocksmash: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT seismictoss: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT skullbash: pkmn: '{"charge":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT slash: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT spark: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT steelwing: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT submission: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT superfang: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT tackle: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT takedown: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT thief: pkmn: '{"protect":1,"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT thrash: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT thunderpunch: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT waterfall: pkmn: '{"mirror":1}', dmg: 'true'
+DMG MAKESCONTACT wingattack: pkmn: '{"mirror":1}', dmg: 'true'
+DMG RECOIL bravebird: pkmn: '33', dmg: '33'
+DMG RECOIL doubleedge: pkmn: '33', dmg: '33'
+DMG RECOIL flareblitz: pkmn: '33', dmg: '33'
+DMG RECOIL headcharge: pkmn: '25', dmg: '25'
+DMG RECOIL headsmash: pkmn: '50', dmg: '50'
+DMG RECOIL highjumpkick: pkmn: 'crash', dmg: 'crash'
+DMG RECOIL jumpkick: pkmn: 'crash', dmg: 'crash'
+DMG RECOIL lightofruin: pkmn: '50', dmg: '50'
+DMG RECOIL struggle: pkmn: 'Struggle', dmg: 'Struggle'
+DMG RECOIL submission: pkmn: '25', dmg: '25'
+DMG RECOIL takedown: pkmn: '25', dmg: '25'
+DMG RECOIL volttackle: pkmn: '33', dmg: '33'
+DMG RECOIL wildcharge: pkmn: '25', dmg: '25'
+DMG RECOIL woodhammer: pkmn: '33', dmg: '33'
+DMG TYPE struggle: pkmn: 'Normal', dmg: 'None'
+|DMG MISSING absorb
+|DMG MISSING acid
+|DMG MISSING acidarmor
+|DMG MISSING acupressure
+|DMG MISSING afteryou
+|DMG MISSING allyswitch
+|DMG MISSING aromaticmist
+|DMG MISSING assist
+|DMG MISSING attract
+|DMG MISSING babydolleyes
+|DMG MISSING barrage
+|DMG MISSING beatup
+|DMG MISSING bestow
+|DMG MISSING bide
+|DMG MISSING block
+|DMG MISSING bubble
+|DMG MISSING camouflage
+|DMG MISSING captivate
+|DMG MISSING celebrate
+|DMG MISSING charge
+|DMG MISSING charm
+|DMG MISSING cometpunch
+|DMG MISSING confide
+|DMG MISSING confusion
+|DMG MISSING constrict
+|DMG MISSING conversion
+|DMG MISSING conversion2
+|DMG MISSING copycat
+|DMG MISSING cosmicpower
+|DMG MISSING cottonspore
+|DMG MISSING counter
+|DMG MISSING craftyshield
+|DMG MISSING crushgrip
+|DMG MISSING cut
+|DMG MISSING detect
+|DMG MISSING dizzypunch
+|DMG MISSING doubleslap
+|DMG MISSING dragonbreath
+|DMG MISSING dragondance
+|DMG MISSING dragonrage
+|DMG MISSING echoedvoice
+|DMG MISSING eerieimpulse
+|DMG MISSING eggbomb
+|DMG MISSING electricterrain
+|DMG MISSING electrify
+|DMG MISSING embargo
+|DMG MISSING ember
+|DMG MISSING entrainment
+|DMG MISSING fairylock
+|DMG MISSING fairywind
+|DMG MISSING faketears
+|DMG MISSING falseswipe
+|DMG MISSING featherdance
+|DMG MISSING fissure
+|DMG MISSING flash
+|DMG MISSING flatter
+|DMG MISSING flowershield
+|DMG MISSING focusenergy
+|DMG MISSING followme
+|DMG MISSING foresight
+|DMG MISSING forestscurse
+|DMG MISSING furyattack
+|DMG MISSING furycutter
+|DMG MISSING gastroacid
+|DMG MISSING grasswhistle
+|DMG MISSING grassyterrain
+|DMG MISSING gravity
+|DMG MISSING growl
+|DMG MISSING growth
+|DMG MISSING grudge
+|DMG MISSING guardsplit
+|DMG MISSING guardswap
+|DMG MISSING guillotine
+|DMG MISSING hail
+|DMG MISSING happyhour
+|DMG MISSING harden
+|DMG MISSING healblock
+|DMG MISSING heartswap
+|DMG MISSING hiddenpower
+|DMG MISSING holdback
+|DMG MISSING holdhands
+|DMG MISSING hornattack
+|DMG MISSING horndrill
+|DMG MISSING howl
+|DMG MISSING hypnosis
+|DMG MISSING iceball
+|DMG MISSING imprison
+|DMG MISSING iondeluge
+|DMG MISSING karatechop
+|DMG MISSING kinesis
+|DMG MISSING leer
+|DMG MISSING lick
+|DMG MISSING lockon
+|DMG MISSING luckychant
+|DMG MISSING magicroom
+|DMG MISSING magneticflux
+|DMG MISSING magnitude
+|DMG MISSING matblock
+|DMG MISSING meanlook
+|DMG MISSING meditate
+|DMG MISSING megadrain
+|DMG MISSING megakick
+|DMG MISSING megapunch
+|DMG MISSING memento
+|DMG MISSING metalburst
+|DMG MISSING metalsound
+|DMG MISSING metronome
+|DMG MISSING mimic
+|DMG MISSING mindreader
+|DMG MISSING minimize
+|DMG MISSING miracleeye
+|DMG MISSING mirrorcoat
+|DMG MISSING mist
+|DMG MISSING mistyterrain
+|DMG MISSING morningsun
+|DMG MISSING mudslap
+|DMG MISSING mudsport
+|DMG MISSING nightmare
+|DMG MISSING nobleroar
+|DMG MISSING octazooka
+|DMG MISSING odorsleuth
+|DMG MISSING painsplit
+|DMG MISSING partingshot
+|DMG MISSING payday
+|DMG MISSING peck
+|DMG MISSING perishsong
+|DMG MISSING petalblizzard
+|DMG MISSING playnice
+|DMG MISSING poisongas
+|DMG MISSING poisonpowder
+|DMG MISSING poisonsting
+|DMG MISSING pound
+|DMG MISSING powder
+|DMG MISSING powdersnow
+|DMG MISSING powersplit
+|DMG MISSING powerswap
+|DMG MISSING powertrick
+|DMG MISSING present
+|DMG MISSING psybeam
+|DMG MISSING psychup
+|DMG MISSING psywave
+|DMG MISSING quash
+|DMG MISSING rage
+|DMG MISSING raindance
+|DMG MISSING razorwind
+|DMG MISSING reflecttype
+|DMG MISSING roleplay
+|DMG MISSING rollingkick
+|DMG MISSING rollout
+|DMG MISSING rototiller
+|DMG MISSING safeguard
+|DMG MISSING sandattack
+|DMG MISSING sandstorm
+|DMG MISSING scaryface
+|DMG MISSING scratch
+|DMG MISSING screech
+|DMG MISSING sharpen
+|DMG MISSING simplebeam
+|DMG MISSING sketch
+|DMG MISSING skillswap
+|DMG MISSING slam
+|DMG MISSING sleeppowder
+|DMG MISSING smellingsalts
+|DMG MISSING smog
+|DMG MISSING smokescreen
+|DMG MISSING snatch
+|DMG MISSING snore
+|DMG MISSING soak
+|DMG MISSING sonicboom
+|DMG MISSING spiderweb
+|DMG MISSING spikecannon
+|DMG MISSING spite
+|DMG MISSING spitup
+|DMG MISSING splash
+|DMG MISSING stomp
+|DMG MISSING strength
+|DMG MISSING stringshot
+|DMG MISSING stunspore
+|DMG MISSING supersonic
+|DMG MISSING swallow
+|DMG MISSING sweetkiss
+|DMG MISSING sweetscent
+|DMG MISSING tailwhip
+|DMG MISSING teeterdance
+|DMG MISSING telekinesis
+|DMG MISSING teleport
+|DMG MISSING thundershock
+|DMG MISSING tickle
+|DMG MISSING topsyturvy
+|DMG MISSING torment
+|DMG MISSING transform
+|DMG MISSING trickortreat
+|DMG MISSING triplekick
+|DMG MISSING trumpcard
+|DMG MISSING twister
+|DMG MISSING venomdrench
+|DMG MISSING vicegrip
+|DMG MISSING vinewhip
+|DMG MISSING vitalthrow
+|DMG MISSING watersport
+|DMG MISSING withdraw
+|DMG MISSING wonderroom
+|DMG MISSING workup
+|DMG MISSING worryseed
+|PKMN MISSING firepledgegrasspledgeboosted (DMG)
+|PKMN MISSING firepledgewaterpledgeboosted (DMG)
+|PKMN MISSING grasspledgefirepledgeboosted (DMG)
+|PKMN MISSING grasspledgewaterpledgeboosted (DMG)
+|PKMN MISSING nomove (DMG)
+|PKMN MISSING paleowave (DMG)
+|PKMN MISSING shadowstrike (DMG)
+|PKMN MISSING waterpledgefirepledgeboosted (DMG)
+|PKMN MISSING waterpledgegrasspledgeboosted (DMG)
