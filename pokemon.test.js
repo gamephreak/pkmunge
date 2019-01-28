@@ -4,7 +4,7 @@ const fs = require('fs');
 const equal = require('deep-equal');
 
 const dmg = require('dmgcalc').POKEDEX_BY_ID[gen];
-const pkmn = require('pkmn').Pokedex.forGen(gen);
+const pkmn = require('pkmn');
 const psim = require('../Pokemon-Showdown/sim/dex').forFormat('gen' + gen + 'ou');
 
 function checkDmg(p, id) {
@@ -63,18 +63,21 @@ function checkPsim(p, id) {
 
 // MAIN
 
-for (let id in pkmn) {
-  let p = pkmn[id];
-  checkDmg(p, id);
-  checkPsim(p, id);
-}
-
-for (let id in psim.data.Pokedex) {
-  let s = psim.getTemplate(id);
-  if (s.gen > gen || s.isNonstandard) continue;
-
-  let p = pkmn[id];
-  if (!p) {
-    console.log(`${id} PKMN MISSING`);
+(async () => {
+  const species = await pkmn.Species.forGen(gen);
+  for (let id in species) {
+    let p = species[id];
+    checkDmg(p, id);
+    checkPsim(p, id);
   }
-}
+
+  for (let id in psim.data.Pokedex) {
+    let s = psim.getTemplate(id);
+    if (s.gen > gen || s.isNonstandard) continue;
+
+    let p = species[id];
+    if (!p) {
+      console.log(`${id} PKMN MISSING`);
+    }
+  }
+})();
