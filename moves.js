@@ -2,6 +2,7 @@ const fs = require('fs');
 const equal = require('deep-equal');
 
 const dmg = require('dmgcalc');
+const pkmn = require('pkmn');
 const Dex = require('../Pokemon-Showdown/sim/dex');
 const toID = require('../Pokemon-Showdown/sim/dex-data').Tools.getId;
 
@@ -16,6 +17,11 @@ function readMoves(g) {
       let id = toID(s);
       if (id) result[id] = 1;
     }
+  }
+  // Add CAP moves
+  if (g >= 4) {
+    result['paleowave'] = 1;
+    result['shadowstrike'] = 1;
   }
   return result;
 }
@@ -81,31 +87,31 @@ const sideConditions = {};
 
 function cleanup(val, id, dex, dmgVal, g) {
   if (val.flags) {
-    if (gen < 7) {
+    if (g < 7) {
       delete val.flags.dance;
     }
-    if (gen < 6) {
+    if (g < 6) {
       delete val.flags.bite;
       delete val.flags.bullet;
       delete val.flags.nonsky;
       delete val.flags.pulse;
     }
-    if (gen < 5) {
+    if (g < 5) {
       delete val.flags.distance;
       delete val.flags.powder;
     }
-    if (gen < 4) {
+    if (g < 4) {
       delete val.flags.gravity;
       //val.flags.heal;
       delete val.flags.punch;
     }
-    if (gen < 3) {
+    if (g < 3) {
       delete val.flags.contact;
       delete val.flags.reflectable;
       delete val.flags.snatch;
       delete val.flags.sound;
     }
-    if (gen < 2) {
+    if (g < 2) {
       delete val.flags.defrost;
       delete val.flags.protect;
     }
@@ -114,6 +120,10 @@ function cleanup(val, id, dex, dmgVal, g) {
   //}
   if ((Object.keys(val.flags).length === 0 && val.flags.constructor === Object)) {
     delete val.flags;
+  }
+
+  if (id === 'struggle' && g === 1) {
+    val.pp = 10;
   }
 
   if (g < 4) {
@@ -215,6 +225,9 @@ for (let id in current) {
     continue;
   }
 
+  old = pkmn.extend(true, {}, old);
+  val = pkmn.extend(true, {}, val);
+
   // CLEANUP ------------------------
   cleanup(old, id, oldDex, dmgOld, gen -1);
   cleanup(val, id, dex, dmgVal, gen);
@@ -227,12 +240,20 @@ for (let id in current) {
     if (!(required || optional)) {
       delete val[k];
     } else if (required && !val[k]) {
+      if (k === 'num') {
+        if (id == 'paleowave') {
+          val[k] = -1;
+          continue;
+        } else if (id === 'shadowstrike') {
+          val[k] = -2;
+          continue;
+        }
+      }
       console.error([id, k]);
     } else if (optional && !val[k]) {
       delete val[k];
     }
   }
-
 
   if (!previous[id]) {
     val.gen = gen;

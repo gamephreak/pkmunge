@@ -19,16 +19,16 @@ function checkDmg(p, id) {
   if (gen >= 4 && !equal(p.category, d.category || 'Status')) console.log(`DMG CATEGORY ${id}: pkmn: '${p.category}', dmg: '${d.category}'`);
   if (!!(p.secondaries && !!p.secondaries.length) !== !!d.hasSecondaryEffect) console.log(`DMG HASSECONDARY ${id}: pkmn: '${JSON.stringify(p.secondaries)}', dmg: '${d.hasSecondaryEffect}'`);
   if (gen >= 3 && !!(p.flags && !!p.flags.contact) !== !!d.makesContact) console.log(`DMG MAKESCONTACT ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.makesContact}'`);
-  if (!equal(p.recoil, d.recoil)) console.log(`DMG RECOIL ${id}: pkmn: '${p.recoil}', dmg: '${d.hasRecoil}'`);
+  if (!equal(p.recoil, d.hasRecoil)) console.log(`DMG RECOIL ${id}: pkmn: '${p.recoil}', dmg: '${d.hasRecoil}'`);
   if (!equal(p.willCrit, d.alwaysCrit)) console.log(`DMG ALWAYSCRIT ${id}: pkmn: '${p.willCrit}', dmg: '${d.alwaysCrit}'`);
-  if (!!(p.flags && !!p.flags.heal) !== !!d.givesHealth) console.log(`DMG GIVESHEALTH ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.givesHealth}'`);
+  if ((!!(p.flags && !!p.flags.heal) || !!p.percentHealed) !== !!d.givesHealth) console.log(`DMG GIVESHEALTH ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.givesHealth}'`);
   // TODO percentHealed
   if (gen >= 4 && !!(p.flags && !!p.flags.punch) !== !!d.isPunch) console.log(`DMG ISPUNCH ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.isPunch}'`);
   if (gen >= 6 && !!(p.flags && !!p.flags.bite) !== !!d.isBite) console.log(`DMG ISBUTE ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.isBite}'`);
   if (gen >= 6 && !!(p.flags && !!p.flags.bullet) !== !!d.isBullet) console.log(`DMG ISBULLET ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.isBullet}'`);
   if (gen >= 3 && !!(p.flags && !!p.flags.sound) !== !!d.isSound) console.log(`DMG ISSOUND ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.isSound}'`);
   if (gen >= 6 && !!(p.flags && !!p.flags.pulse) !== !!d.isPulse) console.log(`DMG ISPULSE ${id}: pkmn: '${JSON.stringify(p.flags)}', dmg: '${d.isPulse}'`);
-  if (!equal(p.priority === 0, !!d.hasPriority)) console.log(`DMG HASPRIORITY ${id}: pkmn: '${p.priority}', dmg: '${d.hasPriority}'`);
+  if (!equal(p.priority > 0, !!d.hasPriority)) console.log(`DMG HASPRIORITY ${id}: pkmn: '${p.priority}', dmg: '${d.hasPriority}'`);
   // TODO dropsStats
   if (!equal(p.defensiveCategory === 'Physical', !!d.dealsPhysicalDamage)) console.log(`DMG DEALSPHYSICAL ${id}: pkmn: '${p.defensiveCategory}', dmg: '${d.dealsPhysicalDamage}'`);
   if (!equal(p.izZ, d.isZ)) console.log(`DMG ISZ ${id}: pkmn: '${p.isZ}', dmg: '${d.isZ}'`);
@@ -47,7 +47,7 @@ function sequal(p, s) {
 function checkPsim(p, id) {
   let s = psim.getTemplate(id);;
   if (!s) {
-    console.log(`PSIM MISSING ${id}`);
+    console.log(`|PSIM MISSING ${id}`);
   }
 
   //if (!equal(p.id, s.speciesid)) console.log(`PSIM ID ${id}: pkmn: '${p.id}', psim: '${s.speciesid}'`);

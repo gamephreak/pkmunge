@@ -7,15 +7,15 @@ set -e
 
 #exit 1
 
-#node moves.js 1 > "../pkmn/src/data/rby/moves.json"
-#node moves.js 2 > "../pkmn/src/data/gsc/moves.json"
-#node moves.js 3 > "../pkmn/src/data/adv/moves.json"
-#node moves.js 4 > "../pkmn/src/data/dpp/moves.json"
-#node moves.js 5 > "../pkmn/src/data/bw/moves.json"
-#node moves.js 6 > "../pkmn/src/data/xy/moves.json"
-#node moves.js 7 > "../pkmn/src/data/sm/moves.json"
+node moves.js 1 > "../pkmn/src/data/rby/moves.json"
+node moves.js 2 > "../pkmn/src/data/gsc/moves.json"
+node moves.js 3 > "../pkmn/src/data/adv/moves.json"
+node moves.js 4 > "../pkmn/src/data/dpp/moves.json"
+node moves.js 5 > "../pkmn/src/data/bw/moves.json"
+node moves.js 6 > "../pkmn/src/data/xy/moves.json"
+node moves.js 7 > "../pkmn/src/data/sm/moves.json"
 
-#exit 1
+exit 1
 export LC_ALL=C
 node moves.test.js 1 | sort > moves/1.diff.txt
 node moves.test.js 2 | sort > moves/2.diff.txt
