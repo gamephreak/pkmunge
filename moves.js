@@ -217,6 +217,10 @@ for (let id in current) {
   let old = oldDex.getMove(id);
   let val = dex.getMove(id);
 
+  if (val.isNonstandard) {
+    continue;
+  }
+
   let dmgOld = oldDmgM[id];
   let dmgVal = dmgM[id];
 

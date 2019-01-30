@@ -65,7 +65,6 @@ const requiredKeys = {
 const optionalKeys = {
   desc: 1,
   shortDesc: 1,
-  isNonstandard: 1,
   isUnreleased: 1,
 
   type1: 1,
@@ -226,6 +225,10 @@ for (let id in current) {
 
   let old = oldDex.getTemplate(id);
   let val = dex.getTemplate(id);
+
+  if (val.isNonstandard) {
+    continue;
+  }
 
   let g = toGen(val);
   if (g !== val.gen && !val.isNonstandard) {
