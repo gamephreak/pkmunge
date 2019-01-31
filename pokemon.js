@@ -60,6 +60,7 @@ const requiredKeys = {
   id: 1,
   name: 1,
   num: 1
+  baseSpecies: 1,
 };
 
 const optionalKeys = {
@@ -78,7 +79,6 @@ const optionalKeys = {
   tier: 1,
   prevo: 1,
   evos: 1,
-  baseSpecies: 1,
   baseForme: 1,
   forme: 1,
   formeLetter: 1,

@@ -70,6 +70,7 @@ const optionalKeys = {
   secondaries: 1,
   ignoreDefensive: 1,
   willCrit: 1,
+  ohko: 1,
 
   status: 1,
   sideCondition: 1,
@@ -142,6 +143,8 @@ function cleanup(val, id, dex, dmgVal, g) {
   if (val.heal) {
     val.percentHealed = (val.heal[0] / val.heal[1]) * 100;
   }
+
+  if (val.ohko) val.ohko = !!val.ohko;
 
   if (val.selfBoost) {
     val.self = val.self || {};
@@ -229,8 +232,8 @@ for (let id in current) {
     continue;
   }
 
-  old = pkmn.extend(true, {}, old);
-  val = pkmn.extend(true, {}, val);
+  old = pkmn.Data.patch({}, old);
+  val = pkmn.Data.patch({}, val);
 
   // CLEANUP ------------------------
   cleanup(old, id, oldDex, dmgOld, gen -1);
