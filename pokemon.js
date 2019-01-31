@@ -59,8 +59,8 @@ const oldDex = Dex.forFormat('gen' + (gen - 1) + 'ou');
 const requiredKeys = {
   id: 1,
   name: 1,
-  num: 1
-  baseSpecies: 1,
+  num: 1,
+  baseSpecies: 1
 };
 
 const optionalKeys = {
