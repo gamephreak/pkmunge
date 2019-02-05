@@ -1,5 +1,5 @@
 const fs = require('fs');
-        
+
 const dmg = require('dmgcalc');
 const Dex = require('../Pokemon-Showdown/sim/dex');
 const toID = require('../Pokemon-Showdown/sim/dex-data').Tools.getId;
@@ -37,8 +37,8 @@ const requiredKeys = {
 const optionalKeys = {
   desc: 1,
   shortDesc: 1,
-  isNonstandard: 1,
   isUnreleased: 1,
+  isChoice: 1,
   isBerry: 1,
   isGem: 1,
   megaStone: 1,
@@ -51,7 +51,7 @@ const optionalKeys = {
   onDrive: 1,
   onMemory: 1
 };
-  
+
 //for (let name in currentDmg) {
   //if (!current[toID(name)]) {
     //console.error(name);

@@ -1,6 +1,6 @@
-DMG ALTERNATE FORME deoxys: pkmn: 'undefined' 'Normal', dmg: 'undefined'
 DMG ALTERNATE FORME deoxysattack: pkmn: 'Attack' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME deoxysdefense: pkmn: 'Defense' 'undefined', dmg: 'undefined'
+DMG ALTERNATE FORME deoxys: pkmn: 'undefined' 'Normal', dmg: 'undefined'
 DMG ALTERNATE FORME deoxysspeed: pkmn: 'Speed' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME unown: pkmn: 'undefined' 'A', dmg: 'undefined'
 DMG CANEVOLVE dusclops: pkmn: 'undefined', dmg: 'true'

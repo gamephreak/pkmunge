@@ -1,4 +1,3 @@
-DMG ALTERNATE FORME arceus: pkmn: 'undefined' 'Normal', dmg: 'undefined'
 DMG ALTERNATE FORME arceusbug: pkmn: 'Bug' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceusdark: pkmn: 'Dark' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceusdragon: pkmn: 'Dragon' 'undefined', dmg: 'undefined'
@@ -10,6 +9,7 @@ DMG ALTERNATE FORME arceusghost: pkmn: 'Ghost' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceusgrass: pkmn: 'Grass' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceusground: pkmn: 'Ground' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceusice: pkmn: 'Ice' 'undefined', dmg: 'undefined'
+DMG ALTERNATE FORME arceus: pkmn: 'undefined' 'Normal', dmg: 'undefined'
 DMG ALTERNATE FORME arceuspoison: pkmn: 'Poison' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceuspsychic: pkmn: 'Psychic' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME arceusrock: pkmn: 'Rock' 'undefined', dmg: 'undefined'
@@ -20,13 +20,13 @@ DMG ALTERNATE FORME burmy: pkmn: 'undefined' 'Plant', dmg: 'undefined'
 DMG ALTERNATE FORME cherrim: pkmn: 'undefined' 'Overcast', dmg: 'undefined'
 DMG ALTERNATE FORME darmanitan: pkmn: 'undefined' 'Standard', dmg: 'undefined'
 DMG ALTERNATE FORME deerling: pkmn: 'undefined' 'Spring', dmg: 'undefined'
-DMG ALTERNATE FORME deoxys: pkmn: 'undefined' 'Normal', dmg: 'undefined'
 DMG ALTERNATE FORME deoxysattack: pkmn: 'Attack' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME deoxysdefense: pkmn: 'Defense' 'undefined', dmg: 'undefined'
+DMG ALTERNATE FORME deoxys: pkmn: 'undefined' 'Normal', dmg: 'undefined'
 DMG ALTERNATE FORME deoxysspeed: pkmn: 'Speed' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME gastrodon: pkmn: 'undefined' 'West', dmg: 'undefined'
-DMG ALTERNATE FORME giratina: pkmn: 'undefined' 'Altered', dmg: 'undefined'
 DMG ALTERNATE FORME giratinaorigin: pkmn: 'Origin' 'undefined', dmg: 'undefined'
+DMG ALTERNATE FORME giratina: pkmn: 'undefined' 'Altered', dmg: 'undefined'
 DMG ALTERNATE FORME keldeo: pkmn: 'undefined' 'Ordinary', dmg: 'undefined'
 DMG ALTERNATE FORME kyuremblack: pkmn: 'Black' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME kyuremwhite: pkmn: 'White' 'undefined', dmg: 'undefined'
@@ -50,25 +50,17 @@ DMG ALTERNATE FORME unown: pkmn: 'undefined' 'A', dmg: 'undefined'
 DMG ALTERNATE FORME wormadam: pkmn: 'undefined' 'Plant', dmg: 'undefined'
 DMG ALTERNATE FORME wormadamsandy: pkmn: 'Sandy' 'undefined', dmg: 'undefined'
 DMG ALTERNATE FORME wormadamtrash: pkmn: 'Trash' 'undefined', dmg: 'undefined'
-DMG CANEVOLVE argalis: pkmn: 'aurumoth', dmg: 'undefined'
-DMG CANEVOLVE brattler: pkmn: 'malaconda', dmg: 'undefined'
-DMG CANEVOLVE breezi: pkmn: 'fidgit', dmg: 'undefined'
-DMG CANEVOLVE cupra: pkmn: 'argalis', dmg: 'undefined'
-DMG CANEVOLVE embirch: pkmn: 'flarelm', dmg: 'undefined'
-DMG CANEVOLVE flarelm: pkmn: 'pyroak', dmg: 'undefined'
 DMG CANEVOLVE machamp: pkmn: 'undefined', dmg: 'true'
-DMG CANEVOLVE necturine: pkmn: 'necturna', dmg: 'undefined'
 DMG CANEVOLVE pichu: pkmn: 'undefined', dmg: 'true'
 DMG CANEVOLVE poliwrath: pkmn: 'undefined', dmg: 'true'
-DMG CANEVOLVE syclar: pkmn: 'syclant', dmg: 'undefined'
 DMG GENDER blissey: pkmn: 'F', dmg: 'undefined'
 DMG GENDER braviary: pkmn: 'M', dmg: 'undefined'
 DMG GENDER chansey: pkmn: 'F', dmg: 'undefined'
 DMG GENDER cresselia: pkmn: 'F', dmg: 'undefined'
 DMG GENDER froslass: pkmn: 'F', dmg: 'undefined'
 DMG GENDER gallade: pkmn: 'M', dmg: 'undefined'
-DMG GENDER giratina: pkmn: 'N', dmg: 'undefined'
 DMG GENDER giratinaorigin: pkmn: 'N', dmg: 'undefined'
+DMG GENDER giratina: pkmn: 'N', dmg: 'undefined'
 DMG GENDER happiny: pkmn: 'F', dmg: 'undefined'
 DMG GENDER hitmonchan: pkmn: 'M', dmg: 'undefined'
 DMG GENDER hitmonlee: pkmn: 'M', dmg: 'undefined'
@@ -84,8 +76,6 @@ DMG GENDER lilligant: pkmn: 'F', dmg: 'undefined'
 DMG GENDER mandibuzz: pkmn: 'F', dmg: 'undefined'
 DMG GENDER miltank: pkmn: 'F', dmg: 'undefined'
 DMG GENDER mothim: pkmn: 'M', dmg: 'undefined'
-DMG GENDER necturine: pkmn: 'F', dmg: 'undefined'
-DMG GENDER necturna: pkmn: 'F', dmg: 'undefined'
 DMG GENDER nidoking: pkmn: 'M', dmg: 'undefined'
 DMG GENDER nidoqueen: pkmn: 'F', dmg: 'undefined'
 DMG GENDER nidoranf: pkmn: 'F', dmg: 'undefined'
@@ -98,7 +88,6 @@ DMG GENDER sawk: pkmn: 'M', dmg: 'undefined'
 DMG GENDER smoochum: pkmn: 'F', dmg: 'undefined'
 DMG GENDER starmie: pkmn: 'N', dmg: 'undefined'
 DMG GENDER staryu: pkmn: 'N', dmg: 'undefined'
-DMG GENDER stratagem: pkmn: 'N', dmg: 'undefined'
 DMG GENDER tauros: pkmn: 'M', dmg: 'undefined'
 DMG GENDER throh: pkmn: 'M', dmg: 'undefined'
 DMG GENDER thundurus: pkmn: 'M', dmg: 'undefined'
@@ -126,11 +115,35 @@ DMG MISSING genesectshock
 DMG MISSING keldeoresolute
 DMG MISSING meloettapirouette
 DMG MISSING pichuspikyeared
-DMG MISSING privatyke
-DMG MISSING rebble
-DMG MISSING tactite
-DMG MISSING voodoll
-PSIM EVOS cawdet: pkmn: 'undefined', psim: 'cawmodore'
+PKMN MISSING argalis (DMG)
+PKMN MISSING arghonaut (DMG)
+PKMN MISSING aurumoth (DMG)
+PKMN MISSING brattler (DMG)
+PKMN MISSING breezi (DMG)
+PKMN MISSING cawdet (DMG)
+PKMN MISSING cawmodore (DMG)
+PKMN MISSING colossoil (DMG)
+PKMN MISSING cupra (DMG)
+PKMN MISSING cyclohm (DMG)
+PKMN MISSING darmanitanz (DMG)
+PKMN MISSING embirch (DMG)
+PKMN MISSING fidgit (DMG)
+PKMN MISSING flarelm (DMG)
+PKMN MISSING kitsunoh (DMG)
+PKMN MISSING krilowatt (DMG)
+PKMN MISSING malaconda (DMG)
+PKMN MISSING meloettap (DMG)
+PKMN MISSING mollux (DMG)
+PKMN MISSING necturine (DMG)
+PKMN MISSING necturna (DMG)
+PKMN MISSING pyroak (DMG)
+PKMN MISSING revenankh (DMG)
+PKMN MISSING scratchet (DMG)
+PKMN MISSING stratagem (DMG)
+PKMN MISSING syclant (DMG)
+PKMN MISSING syclar (DMG)
+PKMN MISSING tomohawk (DMG)
+PKMN MISSING voodoom (DMG)
 PSIM EVOS cubone: pkmn: 'marowak', psim: 'marowak,marowakalola'
 PSIM EVOS eevee: pkmn: 'vaporeon,jolteon,flareon,espeon,umbreon,leafeon,glaceon', psim: 'vaporeon,jolteon,flareon,espeon,umbreon,leafeon,glaceon,sylveon'
 PSIM EVOS exeggcute: pkmn: 'exeggutor', psim: 'exeggutor,exeggutoralola'

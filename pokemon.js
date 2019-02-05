@@ -68,6 +68,9 @@ const optionalKeys = {
   shortDesc: 1,
   isUnreleased: 1,
 
+  isMega: 1,
+  isPrimal: 1,
+
   type1: 1,
   type2: 1,
   weight: 1,
